@@ -1,0 +1,7 @@
+# ds store
+.DS_Store
+.venv/
+docs/
+diagrams/
+
+__pycache__/
