@@ -3,13 +3,16 @@ from citas.models import Cita
 # Create your models here.
 
 class RegistroDiario(models.Model):
-    cita = models.ForeignKey(Cita, on_delete=models.CASCADE, related_name='resgistros')
+    cita = models.ForeignKey(Cita, on_delete=models.CASCADE, related_name='registros')
     fecha = models.DateField()
     cumplio = models.BooleanField(default=False)
     observaciones = models.TextField(blank=True, null=True)
 
     class Meta:
         ordering = ['-fecha']
+        constraints = [
+            models.UniqueConstraint(fields=['cita', 'fecha'], name='unique_registro_cita_fecha')
+        ]
 
     def __str__(self):
-        return f"{self.cita} - {self.fecha}" 
+        return f"{self.cita} - {self.fecha}"

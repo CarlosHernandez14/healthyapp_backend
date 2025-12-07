@@ -28,6 +28,9 @@ class Cita(models.Model):
 
     class Meta:
         ordering = ['-fecha', '-hora']
+        constraints = [
+            models.UniqueConstraint(fields=['paciente', 'fecha', 'hora'], name='unique_cita_paciente_fecha_hora')
+        ]
 
     def __str__(self):
         return f'{self.paciente} - {self.fecha} {self.hora}'
