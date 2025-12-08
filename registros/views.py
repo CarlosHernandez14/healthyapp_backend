@@ -17,7 +17,18 @@ class RegistroDiarioViewSet(viewsets.ModelViewSet):
 
     def get_queryset(self):
         qs = super().get_queryset()
-        cita_id = self.request.query_params.get('cita')
+        params = self.request.query_params
+
+        cita_id = params.get('cita')
         if cita_id:
             qs = qs.filter(cita_id=cita_id)
+
+        desde = params.get('desde')
+        if desde:
+            qs = qs.filter(fecha__gte=desde)
+
+        hasta = params.get('hasta')
+        if hasta:
+            qs = qs.filter(fecha__lte=hasta)
+
         return qs
