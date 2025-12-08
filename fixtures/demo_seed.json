@@ -1,0 +1,6820 @@
+[
+{
+  "model": "pacientes.paciente",
+  "pk": 97,
+  "fields": {
+    "nombre": "Lucia",
+    "apellido": "Rodriguez",
+    "edad": 35,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 98,
+  "fields": {
+    "nombre": "Juan",
+    "apellido": "Rodriguez",
+    "edad": 52,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 99,
+  "fields": {
+    "nombre": "Ana",
+    "apellido": "Martinez",
+    "edad": 26,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 100,
+  "fields": {
+    "nombre": "Paola",
+    "apellido": "Martinez",
+    "edad": 18,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 101,
+  "fields": {
+    "nombre": "Fernando",
+    "apellido": "Rodriguez",
+    "edad": 22,
+    "genero": "O"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 102,
+  "fields": {
+    "nombre": "Carlos",
+    "apellido": "Lopez",
+    "edad": 23,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 103,
+  "fields": {
+    "nombre": "Ana",
+    "apellido": "Gonzalez",
+    "edad": 45,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 104,
+  "fields": {
+    "nombre": "Ana",
+    "apellido": "Gonzalez",
+    "edad": 39,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 105,
+  "fields": {
+    "nombre": "Daniela",
+    "apellido": "Ramirez",
+    "edad": 54,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 106,
+  "fields": {
+    "nombre": "Camila",
+    "apellido": "Ramirez",
+    "edad": 45,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 107,
+  "fields": {
+    "nombre": "Fernando",
+    "apellido": "Sanchez",
+    "edad": 51,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 108,
+  "fields": {
+    "nombre": "Ana",
+    "apellido": "Martinez",
+    "edad": 64,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 109,
+  "fields": {
+    "nombre": "Jorge",
+    "apellido": "Martinez",
+    "edad": 39,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 110,
+  "fields": {
+    "nombre": "Lucia",
+    "apellido": "Sanchez",
+    "edad": 42,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 111,
+  "fields": {
+    "nombre": "Paola",
+    "apellido": "Flores",
+    "edad": 23,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 112,
+  "fields": {
+    "nombre": "Andrea",
+    "apellido": "Hernandez",
+    "edad": 43,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 113,
+  "fields": {
+    "nombre": "Juan",
+    "apellido": "Gonzalez",
+    "edad": 49,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 114,
+  "fields": {
+    "nombre": "Miguel",
+    "apellido": "Ramirez",
+    "edad": 48,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 115,
+  "fields": {
+    "nombre": "Sofia",
+    "apellido": "Sanchez",
+    "edad": 42,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 116,
+  "fields": {
+    "nombre": "Mariana",
+    "apellido": "Sanchez",
+    "edad": 30,
+    "genero": "O"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 117,
+  "fields": {
+    "nombre": "Jorge",
+    "apellido": "Rodriguez",
+    "edad": 58,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 118,
+  "fields": {
+    "nombre": "Lucia",
+    "apellido": "Ramirez",
+    "edad": 40,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 119,
+  "fields": {
+    "nombre": "Ana",
+    "apellido": "Ramirez",
+    "edad": 42,
+    "genero": "O"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 120,
+  "fields": {
+    "nombre": "Diego",
+    "apellido": "Lopez",
+    "edad": 38,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 121,
+  "fields": {
+    "nombre": "Sofia",
+    "apellido": "Perez",
+    "edad": 44,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 122,
+  "fields": {
+    "nombre": "Luis",
+    "apellido": "Rodriguez",
+    "edad": 22,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 123,
+  "fields": {
+    "nombre": "Pedro",
+    "apellido": "Hernandez",
+    "edad": 65,
+    "genero": "O"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 124,
+  "fields": {
+    "nombre": "Juan",
+    "apellido": "Ramirez",
+    "edad": 42,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 125,
+  "fields": {
+    "nombre": "Laura",
+    "apellido": "Rodriguez",
+    "edad": 41,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 126,
+  "fields": {
+    "nombre": "Mateo",
+    "apellido": "Garcia",
+    "edad": 58,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 127,
+  "fields": {
+    "nombre": "Diego",
+    "apellido": "Lopez",
+    "edad": 65,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 128,
+  "fields": {
+    "nombre": "Pedro",
+    "apellido": "Sanchez",
+    "edad": 73,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 129,
+  "fields": {
+    "nombre": "Andres",
+    "apellido": "Gonzalez",
+    "edad": 45,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 130,
+  "fields": {
+    "nombre": "Sofia",
+    "apellido": "Perez",
+    "edad": 73,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 131,
+  "fields": {
+    "nombre": "Pedro",
+    "apellido": "Ramirez",
+    "edad": 24,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 132,
+  "fields": {
+    "nombre": "Daniela",
+    "apellido": "Perez",
+    "edad": 23,
+    "genero": "F"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 133,
+  "fields": {
+    "nombre": "Miguel",
+    "apellido": "Perez",
+    "edad": 34,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 134,
+  "fields": {
+    "nombre": "Carlos",
+    "apellido": "Hernandez",
+    "edad": 50,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 135,
+  "fields": {
+    "nombre": "Juan",
+    "apellido": "Hernandez",
+    "edad": 35,
+    "genero": "M"
+  }
+},
+{
+  "model": "pacientes.paciente",
+  "pk": 136,
+  "fields": {
+    "nombre": "Andrea",
+    "apellido": "Garcia",
+    "edad": 39,
+    "genero": "F"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 13,
+  "fields": {
+    "paciente": 97,
+    "fecha": "2026-01-05",
+    "hora": "16:15:00",
+    "motivo": "Control de glucosa",
+    "tipo": "seguimiento",
+    "estado": "asistida",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.704Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 14,
+  "fields": {
+    "paciente": 98,
+    "fecha": "2026-01-04",
+    "hora": "11:15:00",
+    "motivo": "Mejorar hábitos alimenticios",
+    "tipo": "seguimiento",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.704Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 15,
+  "fields": {
+    "paciente": 98,
+    "fecha": "2025-12-21",
+    "hora": "17:00:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir 3kg en 8 semanas con déficit controlado",
+    "enfoque_nutricional": "Baja en carbohidratos",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Incluir verduras en 2/3 comidas del día",
+    "created_at": "2025-12-08T04:15:16.704Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 16,
+  "fields": {
+    "paciente": 99,
+    "fecha": "2025-12-26",
+    "hora": "15:30:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Alta proteína",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.704Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 17,
+  "fields": {
+    "paciente": 100,
+    "fecha": "2025-12-30",
+    "hora": "10:45:00",
+    "motivo": "Control de glucosa",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.704Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 18,
+  "fields": {
+    "paciente": 100,
+    "fecha": "2026-01-06",
+    "hora": "14:00:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.704Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 19,
+  "fields": {
+    "paciente": 101,
+    "fecha": "2025-12-05",
+    "hora": "12:45:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Balanceada",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 20,
+  "fields": {
+    "paciente": 101,
+    "fecha": "2025-11-10",
+    "hora": "10:00:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir 3kg en 8 semanas con déficit controlado",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 21,
+  "fields": {
+    "paciente": 101,
+    "fecha": "2025-12-11",
+    "hora": "10:30:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Alta proteína",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 22,
+  "fields": {
+    "paciente": 102,
+    "fecha": "2026-01-03",
+    "hora": "08:30:00",
+    "motivo": "Control de glucosa",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "Alta proteína",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "Incluir verduras en 2/3 comidas del día",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 23,
+  "fields": {
+    "paciente": 102,
+    "fecha": "2025-11-29",
+    "hora": "14:00:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 24,
+  "fields": {
+    "paciente": 102,
+    "fecha": "2025-12-10",
+    "hora": "10:15:00",
+    "motivo": "Control de glucosa",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 25,
+  "fields": {
+    "paciente": 103,
+    "fecha": "2025-12-16",
+    "hora": "16:30:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Balanceada",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 26,
+  "fields": {
+    "paciente": 103,
+    "fecha": "2025-11-10",
+    "hora": "17:45:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "Balanceada",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 27,
+  "fields": {
+    "paciente": 104,
+    "fecha": "2025-11-22",
+    "hora": "08:15:00",
+    "motivo": "Plan nutricional por meta de peso",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 28,
+  "fields": {
+    "paciente": 105,
+    "fecha": "2025-12-12",
+    "hora": "08:00:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Incluir verduras en 2/3 comidas del día",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 29,
+  "fields": {
+    "paciente": 105,
+    "fecha": "2025-11-25",
+    "hora": "13:15:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 30,
+  "fields": {
+    "paciente": 106,
+    "fecha": "2025-12-09",
+    "hora": "14:45:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Alta proteína",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.705Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 31,
+  "fields": {
+    "paciente": 107,
+    "fecha": "2025-12-07",
+    "hora": "09:15:00",
+    "motivo": "Mejorar hábitos alimenticios",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir 3kg en 8 semanas con déficit controlado",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 32,
+  "fields": {
+    "paciente": 108,
+    "fecha": "2025-11-29",
+    "hora": "12:30:00",
+    "motivo": "Mejorar hábitos alimenticios",
+    "tipo": "primera",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 33,
+  "fields": {
+    "paciente": 108,
+    "fecha": "2025-12-19",
+    "hora": "13:00:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Menú semanal con colación alta en proteína",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 34,
+  "fields": {
+    "paciente": 108,
+    "fecha": "2025-12-31",
+    "hora": "08:15:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir 3kg en 8 semanas con déficit controlado",
+    "enfoque_nutricional": "Baja en carbohidratos",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 35,
+  "fields": {
+    "paciente": 109,
+    "fecha": "2026-01-05",
+    "hora": "11:45:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Reducir 3kg en 8 semanas con déficit controlado",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Menú semanal con colación alta en proteína",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 36,
+  "fields": {
+    "paciente": 109,
+    "fecha": "2025-12-19",
+    "hora": "08:30:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "Alta proteína",
+    "plan_alimentacion": "Menú semanal con colación alta en proteína",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 37,
+  "fields": {
+    "paciente": 110,
+    "fecha": "2025-11-12",
+    "hora": "08:30:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Incluir verduras en 2/3 comidas del día",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 38,
+  "fields": {
+    "paciente": 111,
+    "fecha": "2025-11-11",
+    "hora": "09:15:00",
+    "motivo": "Plan nutricional por meta de peso",
+    "tipo": "seguimiento",
+    "estado": "asistida",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Alta proteína",
+    "plan_alimentacion": "Menú semanal con colación alta en proteína",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 39,
+  "fields": {
+    "paciente": 111,
+    "fecha": "2025-12-12",
+    "hora": "13:30:00",
+    "motivo": "Control de glucosa",
+    "tipo": "seguimiento",
+    "estado": "asistida",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 40,
+  "fields": {
+    "paciente": 111,
+    "fecha": "2025-12-21",
+    "hora": "08:30:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "primera",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 41,
+  "fields": {
+    "paciente": 112,
+    "fecha": "2025-12-05",
+    "hora": "09:15:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "seguimiento",
+    "estado": "asistida",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 42,
+  "fields": {
+    "paciente": 112,
+    "fecha": "2025-12-26",
+    "hora": "15:30:00",
+    "motivo": "Plan nutricional por meta de peso",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Balanceada",
+    "plan_alimentacion": "Menú semanal con colación alta en proteína",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.706Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 43,
+  "fields": {
+    "paciente": 113,
+    "fecha": "2025-12-25",
+    "hora": "10:15:00",
+    "motivo": "Mejorar hábitos alimenticios",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Alta proteína",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 44,
+  "fields": {
+    "paciente": 114,
+    "fecha": "2026-01-03",
+    "hora": "09:30:00",
+    "motivo": "Control de glucosa",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Reducir 3kg en 8 semanas con déficit controlado",
+    "enfoque_nutricional": "Baja en carbohidratos",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 45,
+  "fields": {
+    "paciente": 115,
+    "fecha": "2025-11-23",
+    "hora": "16:00:00",
+    "motivo": "Control de glucosa",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "Incluir verduras en 2/3 comidas del día",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 46,
+  "fields": {
+    "paciente": 115,
+    "fecha": "2025-11-07",
+    "hora": "09:00:00",
+    "motivo": "Control de glucosa",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 47,
+  "fields": {
+    "paciente": 115,
+    "fecha": "2025-12-01",
+    "hora": "08:45:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Alta proteína",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 48,
+  "fields": {
+    "paciente": 116,
+    "fecha": "2025-11-24",
+    "hora": "14:15:00",
+    "motivo": "Plan nutricional por meta de peso",
+    "tipo": "seguimiento",
+    "estado": "asistida",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "Baja en carbohidratos",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 49,
+  "fields": {
+    "paciente": 116,
+    "fecha": "2025-12-13",
+    "hora": "08:15:00",
+    "motivo": "Control de glucosa",
+    "tipo": "primera",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Baja en carbohidratos",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 50,
+  "fields": {
+    "paciente": 116,
+    "fecha": "2025-11-16",
+    "hora": "12:30:00",
+    "motivo": "Plan nutricional por meta de peso",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Menú semanal con colación alta en proteína",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 51,
+  "fields": {
+    "paciente": 117,
+    "fecha": "2025-11-17",
+    "hora": "08:15:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Reducir 3kg en 8 semanas con déficit controlado",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 52,
+  "fields": {
+    "paciente": 118,
+    "fecha": "2026-01-06",
+    "hora": "13:00:00",
+    "motivo": "Mejorar hábitos alimenticios",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 53,
+  "fields": {
+    "paciente": 118,
+    "fecha": "2025-11-08",
+    "hora": "11:00:00",
+    "motivo": "Plan nutricional por meta de peso",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 54,
+  "fields": {
+    "paciente": 118,
+    "fecha": "2026-01-02",
+    "hora": "15:45:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Menú semanal con colación alta en proteína",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.707Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 55,
+  "fields": {
+    "paciente": 119,
+    "fecha": "2025-11-20",
+    "hora": "10:15:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Baja en carbohidratos",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.708Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 56,
+  "fields": {
+    "paciente": 120,
+    "fecha": "2025-12-31",
+    "hora": "10:00:00",
+    "motivo": "Mejorar hábitos alimenticios",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir 3kg en 8 semanas con déficit controlado",
+    "enfoque_nutricional": "Balanceada",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.708Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 57,
+  "fields": {
+    "paciente": 120,
+    "fecha": "2026-01-04",
+    "hora": "11:45:00",
+    "motivo": "Control de glucosa",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Reducir 3kg en 8 semanas con déficit controlado",
+    "enfoque_nutricional": "Baja en carbohidratos",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.708Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 58,
+  "fields": {
+    "paciente": 121,
+    "fecha": "2025-12-14",
+    "hora": "13:15:00",
+    "motivo": "Mejorar hábitos alimenticios",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.708Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 59,
+  "fields": {
+    "paciente": 121,
+    "fecha": "2025-12-28",
+    "hora": "13:45:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.708Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 60,
+  "fields": {
+    "paciente": 121,
+    "fecha": "2025-12-09",
+    "hora": "09:45:00",
+    "motivo": "Control de glucosa",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Alta proteína",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.708Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 61,
+  "fields": {
+    "paciente": 122,
+    "fecha": "2025-12-31",
+    "hora": "14:30:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "primera",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.708Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 62,
+  "fields": {
+    "paciente": 122,
+    "fecha": "2025-12-22",
+    "hora": "08:15:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Menú semanal con colación alta en proteína",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.708Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 63,
+  "fields": {
+    "paciente": 122,
+    "fecha": "2025-12-28",
+    "hora": "10:15:00",
+    "motivo": "Mejorar hábitos alimenticios",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Menú semanal con colación alta en proteína",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.708Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 64,
+  "fields": {
+    "paciente": 123,
+    "fecha": "2025-11-24",
+    "hora": "13:45:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 65,
+  "fields": {
+    "paciente": 124,
+    "fecha": "2025-12-04",
+    "hora": "14:00:00",
+    "motivo": "Plan nutricional por meta de peso",
+    "tipo": "primera",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 66,
+  "fields": {
+    "paciente": 124,
+    "fecha": "2025-11-29",
+    "hora": "13:30:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 67,
+  "fields": {
+    "paciente": 124,
+    "fecha": "2025-11-21",
+    "hora": "08:15:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 68,
+  "fields": {
+    "paciente": 125,
+    "fecha": "2025-11-29",
+    "hora": "10:30:00",
+    "motivo": "Control de glucosa",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Balanceada",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 69,
+  "fields": {
+    "paciente": 126,
+    "fecha": "2025-12-12",
+    "hora": "10:00:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Reducir perímetro abdominal",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 70,
+  "fields": {
+    "paciente": 127,
+    "fecha": "2025-11-18",
+    "hora": "13:15:00",
+    "motivo": "Plan nutricional por meta de peso",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 71,
+  "fields": {
+    "paciente": 128,
+    "fecha": "2025-12-09",
+    "hora": "14:00:00",
+    "motivo": "Control de glucosa",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Baja en carbohidratos",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 72,
+  "fields": {
+    "paciente": 128,
+    "fecha": "2025-11-12",
+    "hora": "09:45:00",
+    "motivo": "Plan nutricional por meta de peso",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 73,
+  "fields": {
+    "paciente": 129,
+    "fecha": "2026-01-05",
+    "hora": "12:45:00",
+    "motivo": "Control de glucosa",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "Incluir verduras en 2/3 comidas del día",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 74,
+  "fields": {
+    "paciente": 130,
+    "fecha": "2025-11-18",
+    "hora": "09:00:00",
+    "motivo": "Plan nutricional por meta de peso",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "Vegetariana",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "Incluir verduras en 2/3 comidas del día",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 75,
+  "fields": {
+    "paciente": 130,
+    "fecha": "2025-11-27",
+    "hora": "12:15:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "primera",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Balanceada",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Incluir verduras en 2/3 comidas del día",
+    "created_at": "2025-12-08T04:15:16.709Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 76,
+  "fields": {
+    "paciente": 130,
+    "fecha": "2025-12-07",
+    "hora": "10:15:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Alta proteína",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.710Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 77,
+  "fields": {
+    "paciente": 131,
+    "fecha": "2025-12-06",
+    "hora": "15:30:00",
+    "motivo": "Control de glucosa",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.710Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 78,
+  "fields": {
+    "paciente": 132,
+    "fecha": "2025-11-12",
+    "hora": "14:45:00",
+    "motivo": "Mejorar hábitos alimenticios",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Reducir 3kg en 8 semanas con déficit controlado",
+    "enfoque_nutricional": "Balanceada",
+    "plan_alimentacion": "Plan mediterráneo con déficit 15%",
+    "recomendaciones": "Evitar bebidas azucaradas; preferir infusiones",
+    "created_at": "2025-12-08T04:15:16.710Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 79,
+  "fields": {
+    "paciente": 132,
+    "fecha": "2025-12-26",
+    "hora": "08:15:00",
+    "motivo": "Control de glucosa",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "Balanceada",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.710Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 80,
+  "fields": {
+    "paciente": 133,
+    "fecha": "2026-01-04",
+    "hora": "16:15:00",
+    "motivo": "Mejorar rendimiento deportivo",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Optimizar energía durante el día",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Menú 3 comidas + 2 colaciones",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.710Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 81,
+  "fields": {
+    "paciente": 134,
+    "fecha": "2025-12-21",
+    "hora": "10:15:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "seguimiento",
+    "estado": "asistida",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "DASH",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.710Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 82,
+  "fields": {
+    "paciente": 134,
+    "fecha": "2025-11-16",
+    "hora": "10:45:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "seguimiento",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Balanceada",
+    "plan_alimentacion": "Menú semanal con colación alta en proteína",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.710Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 83,
+  "fields": {
+    "paciente": 135,
+    "fecha": "2025-12-15",
+    "hora": "08:30:00",
+    "motivo": "Mejorar composición corporal",
+    "tipo": "primera",
+    "estado": "asistida",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Balanceada",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.710Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 84,
+  "fields": {
+    "paciente": 135,
+    "fecha": "2025-12-16",
+    "hora": "10:30:00",
+    "motivo": "Control de glucosa",
+    "tipo": "primera",
+    "estado": "pendiente",
+    "objetivo_nutricional": "Reducir 3kg en 8 semanas con déficit controlado",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Menú semanal con colación alta en proteína",
+    "recomendaciones": "Beber 2L de agua/día; evitar azúcares añadidos",
+    "created_at": "2025-12-08T04:15:16.710Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 85,
+  "fields": {
+    "paciente": 135,
+    "fecha": "2025-11-18",
+    "hora": "15:45:00",
+    "motivo": "Plan nutricional por meta de peso",
+    "tipo": "primera",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Mejorar % músculo y bajar % grasa",
+    "enfoque_nutricional": "Mediterránea",
+    "plan_alimentacion": "Plan balanceado con distribución 40/30/30",
+    "recomendaciones": "Cenar al menos 2 horas antes de dormir",
+    "created_at": "2025-12-08T04:15:16.710Z"
+  }
+},
+{
+  "model": "citas.cita",
+  "pk": 86,
+  "fields": {
+    "paciente": 136,
+    "fecha": "2025-12-03",
+    "hora": "10:15:00",
+    "motivo": "Mejorar hábitos alimenticios",
+    "tipo": "seguimiento",
+    "estado": "cancelada",
+    "objetivo_nutricional": "Controlar apetito y mejorar saciedad",
+    "enfoque_nutricional": "Alta proteína",
+    "plan_alimentacion": "Plan vegetariano con foco en proteína vegetal",
+    "recomendaciones": "7000 pasos/día; 2L agua/día",
+    "created_at": "2025-12-08T04:15:16.710Z"
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 11,
+  "fields": {
+    "cita": 19,
+    "fecha": "2025-12-02",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2384,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": "56.84",
+    "adherencia": 100
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 12,
+  "fields": {
+    "cita": 19,
+    "fecha": "2025-12-03",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1889,
+    "agua_ml": 2957,
+    "actividad_min": null,
+    "peso_kg": "56.48",
+    "adherencia": 77
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 13,
+  "fields": {
+    "cita": 19,
+    "fecha": "2025-12-04",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2393,
+    "agua_ml": 1696,
+    "actividad_min": 40,
+    "peso_kg": "56.62",
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 14,
+  "fields": {
+    "cita": 19,
+    "fecha": "2025-12-05",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2513,
+    "agua_ml": 2218,
+    "actividad_min": 7,
+    "peso_kg": "56.87",
+    "adherencia": 89
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 15,
+  "fields": {
+    "cita": 19,
+    "fecha": "2025-12-06",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 2210,
+    "agua_ml": 2422,
+    "actividad_min": 9,
+    "peso_kg": "56.50",
+    "adherencia": 46
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 16,
+  "fields": {
+    "cita": 19,
+    "fecha": "2025-12-07",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1999,
+    "agua_ml": 2377,
+    "actividad_min": 10,
+    "peso_kg": "56.79",
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 17,
+  "fields": {
+    "cita": 19,
+    "fecha": "2025-12-08",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 1511,
+    "agua_ml": 1973,
+    "actividad_min": null,
+    "peso_kg": "56.67",
+    "adherencia": 55
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 18,
+  "fields": {
+    "cita": 20,
+    "fecha": "2025-11-07",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 2189,
+    "agua_ml": 2868,
+    "actividad_min": 1,
+    "peso_kg": "93.34",
+    "adherencia": 69
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 19,
+  "fields": {
+    "cita": 20,
+    "fecha": "2025-11-08",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1756,
+    "agua_ml": 2066,
+    "actividad_min": 35,
+    "peso_kg": "93.56",
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 20,
+  "fields": {
+    "cita": 20,
+    "fecha": "2025-11-09",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2397,
+    "agua_ml": null,
+    "actividad_min": 5,
+    "peso_kg": null,
+    "adherencia": 80
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 21,
+  "fields": {
+    "cita": 20,
+    "fecha": "2025-11-10",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1613,
+    "agua_ml": 2450,
+    "actividad_min": 14,
+    "peso_kg": "93.48",
+    "adherencia": 89
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 22,
+  "fields": {
+    "cita": 20,
+    "fecha": "2025-11-11",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": null,
+    "agua_ml": 1895,
+    "actividad_min": 44,
+    "peso_kg": null,
+    "adherencia": 69
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 23,
+  "fields": {
+    "cita": 20,
+    "fecha": "2025-11-12",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1892,
+    "agua_ml": 2303,
+    "actividad_min": null,
+    "peso_kg": "93.48",
+    "adherencia": 90
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 24,
+  "fields": {
+    "cita": 20,
+    "fecha": "2025-11-13",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2112,
+    "agua_ml": 2463,
+    "actividad_min": 34,
+    "peso_kg": null,
+    "adherencia": 72
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 25,
+  "fields": {
+    "cita": 21,
+    "fecha": "2025-12-09",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": null,
+    "agua_ml": 1542,
+    "actividad_min": 48,
+    "peso_kg": null,
+    "adherencia": 83
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 26,
+  "fields": {
+    "cita": 21,
+    "fecha": "2025-12-10",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1901,
+    "agua_ml": 3481,
+    "actividad_min": null,
+    "peso_kg": "64.20",
+    "adherencia": 81
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 27,
+  "fields": {
+    "cita": 21,
+    "fecha": "2025-12-11",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2076,
+    "agua_ml": null,
+    "actividad_min": 49,
+    "peso_kg": "63.98",
+    "adherencia": 100
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 28,
+  "fields": {
+    "cita": 21,
+    "fecha": "2025-12-12",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2517,
+    "agua_ml": 2822,
+    "actividad_min": 40,
+    "peso_kg": "64.16",
+    "adherencia": 92
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 29,
+  "fields": {
+    "cita": 21,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1551,
+    "agua_ml": 1967,
+    "actividad_min": 39,
+    "peso_kg": "64.20",
+    "adherencia": 91
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 30,
+  "fields": {
+    "cita": 21,
+    "fecha": "2025-12-14",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1889,
+    "agua_ml": null,
+    "actividad_min": 40,
+    "peso_kg": "64.11",
+    "adherencia": 97
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 31,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-11-28",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2136,
+    "agua_ml": 2278,
+    "actividad_min": null,
+    "peso_kg": "76.48",
+    "adherencia": 85
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 32,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-11-29",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1576,
+    "agua_ml": 2395,
+    "actividad_min": 49,
+    "peso_kg": "76.27",
+    "adherencia": 80
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 33,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-11-30",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1835,
+    "agua_ml": 1695,
+    "actividad_min": 41,
+    "peso_kg": "76.14",
+    "adherencia": 91
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 34,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-12-01",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2538,
+    "agua_ml": 2174,
+    "actividad_min": 44,
+    "peso_kg": "76.41",
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 35,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-12-02",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1723,
+    "agua_ml": 2851,
+    "actividad_min": 54,
+    "peso_kg": null,
+    "adherencia": 97
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 36,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-12-03",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1786,
+    "agua_ml": 2002,
+    "actividad_min": 55,
+    "peso_kg": null,
+    "adherencia": 88
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 37,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-12-04",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2263,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": "76.28",
+    "adherencia": 75
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 38,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-12-05",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2565,
+    "agua_ml": 2557,
+    "actividad_min": 23,
+    "peso_kg": null,
+    "adherencia": 64
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 39,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-12-06",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 1651,
+    "agua_ml": 1612,
+    "actividad_min": null,
+    "peso_kg": "76.48",
+    "adherencia": 43
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 40,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-12-07",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": null,
+    "agua_ml": 1917,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 93
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 41,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-12-08",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": null,
+    "agua_ml": 3422,
+    "actividad_min": null,
+    "peso_kg": "76.23",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 42,
+  "fields": {
+    "cita": 23,
+    "fecha": "2025-12-09",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 2448,
+    "agua_ml": 1758,
+    "actividad_min": 8,
+    "peso_kg": null,
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 43,
+  "fields": {
+    "cita": 24,
+    "fecha": "2025-12-08",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 1959,
+    "agua_ml": 2431,
+    "actividad_min": 5,
+    "peso_kg": "89.82",
+    "adherencia": 70
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 44,
+  "fields": {
+    "cita": 24,
+    "fecha": "2025-12-09",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2598,
+    "agua_ml": 2592,
+    "actividad_min": 17,
+    "peso_kg": "89.85",
+    "adherencia": 75
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 45,
+  "fields": {
+    "cita": 24,
+    "fecha": "2025-12-10",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1760,
+    "agua_ml": 3314,
+    "actividad_min": 42,
+    "peso_kg": null,
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 46,
+  "fields": {
+    "cita": 24,
+    "fecha": "2025-12-11",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2076,
+    "agua_ml": 2146,
+    "actividad_min": null,
+    "peso_kg": "89.49",
+    "adherencia": 77
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 47,
+  "fields": {
+    "cita": 24,
+    "fecha": "2025-12-12",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": null,
+    "agua_ml": 2371,
+    "actividad_min": 40,
+    "peso_kg": "89.88",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 48,
+  "fields": {
+    "cita": 24,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1929,
+    "agua_ml": 2890,
+    "actividad_min": 55,
+    "peso_kg": "89.83",
+    "adherencia": 89
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 49,
+  "fields": {
+    "cita": 24,
+    "fecha": "2025-12-14",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2356,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 65
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 50,
+  "fields": {
+    "cita": 25,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1614,
+    "agua_ml": 1983,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 78
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 51,
+  "fields": {
+    "cita": 25,
+    "fecha": "2025-12-14",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": null,
+    "agua_ml": 3226,
+    "actividad_min": 53,
+    "peso_kg": null,
+    "adherencia": 53
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 52,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-09",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1684,
+    "agua_ml": 3438,
+    "actividad_min": 52,
+    "peso_kg": null,
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 53,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-10",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": null,
+    "agua_ml": 3230,
+    "actividad_min": 38,
+    "peso_kg": "64.83",
+    "adherencia": 82
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 54,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-11",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1854,
+    "agua_ml": 2098,
+    "actividad_min": 31,
+    "peso_kg": "64.93",
+    "adherencia": 100
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 55,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-12",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1790,
+    "agua_ml": 3075,
+    "actividad_min": 37,
+    "peso_kg": "65.22",
+    "adherencia": 91
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 56,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-13",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2523,
+    "agua_ml": null,
+    "actividad_min": 2,
+    "peso_kg": null,
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 57,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-14",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 1923,
+    "agua_ml": 1746,
+    "actividad_min": 38,
+    "peso_kg": "65.24",
+    "adherencia": 68
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 58,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-15",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2344,
+    "agua_ml": 2849,
+    "actividad_min": 11,
+    "peso_kg": "64.86",
+    "adherencia": 62
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 59,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-16",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2302,
+    "agua_ml": 3178,
+    "actividad_min": null,
+    "peso_kg": "65.14",
+    "adherencia": 87
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 60,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-17",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1870,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": "65.21",
+    "adherencia": 89
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 61,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-18",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": null,
+    "agua_ml": null,
+    "actividad_min": 59,
+    "peso_kg": null,
+    "adherencia": 33
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 62,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-19",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2131,
+    "agua_ml": 2566,
+    "actividad_min": 54,
+    "peso_kg": "65.20",
+    "adherencia": 97
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 63,
+  "fields": {
+    "cita": 26,
+    "fecha": "2025-11-20",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2232,
+    "agua_ml": 3431,
+    "actividad_min": 4,
+    "peso_kg": "65.13",
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 64,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-11-21",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1869,
+    "agua_ml": 3331,
+    "actividad_min": 59,
+    "peso_kg": "88.09",
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 65,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-11-22",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2522,
+    "agua_ml": 2192,
+    "actividad_min": 45,
+    "peso_kg": "88.34",
+    "adherencia": 70
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 66,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-11-23",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 2245,
+    "agua_ml": 3488,
+    "actividad_min": 7,
+    "peso_kg": "88.19",
+    "adherencia": 53
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 67,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-11-24",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2185,
+    "agua_ml": null,
+    "actividad_min": 15,
+    "peso_kg": "87.91",
+    "adherencia": 80
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 68,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-11-25",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": null,
+    "agua_ml": 2509,
+    "actividad_min": 22,
+    "peso_kg": null,
+    "adherencia": 65
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 69,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-11-26",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1707,
+    "agua_ml": 2635,
+    "actividad_min": 55,
+    "peso_kg": "88.06",
+    "adherencia": 91
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 70,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-11-27",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2511,
+    "agua_ml": 3468,
+    "actividad_min": 23,
+    "peso_kg": null,
+    "adherencia": 77
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 71,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-11-28",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2384,
+    "agua_ml": 2400,
+    "actividad_min": null,
+    "peso_kg": "87.97",
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 72,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-11-29",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1508,
+    "agua_ml": null,
+    "actividad_min": 10,
+    "peso_kg": null,
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 73,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-11-30",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2159,
+    "agua_ml": 2378,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 75
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 74,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-12-01",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1681,
+    "agua_ml": 2888,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 64
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 75,
+  "fields": {
+    "cita": 27,
+    "fecha": "2025-12-02",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1840,
+    "agua_ml": 2297,
+    "actividad_min": 57,
+    "peso_kg": "87.78",
+    "adherencia": 63
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 76,
+  "fields": {
+    "cita": 28,
+    "fecha": "2025-12-12",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1688,
+    "agua_ml": 2494,
+    "actividad_min": 15,
+    "peso_kg": "74.03",
+    "adherencia": 94
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 77,
+  "fields": {
+    "cita": 28,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2224,
+    "agua_ml": 1626,
+    "actividad_min": 52,
+    "peso_kg": null,
+    "adherencia": 72
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 78,
+  "fields": {
+    "cita": 28,
+    "fecha": "2025-12-14",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2504,
+    "agua_ml": 3404,
+    "actividad_min": 21,
+    "peso_kg": null,
+    "adherencia": 77
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 79,
+  "fields": {
+    "cita": 29,
+    "fecha": "2025-11-23",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": null,
+    "agua_ml": 2188,
+    "actividad_min": 5,
+    "peso_kg": "79.85",
+    "adherencia": 83
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 80,
+  "fields": {
+    "cita": 29,
+    "fecha": "2025-11-24",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 2374,
+    "agua_ml": 2478,
+    "actividad_min": 28,
+    "peso_kg": null,
+    "adherencia": 43
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 81,
+  "fields": {
+    "cita": 29,
+    "fecha": "2025-11-25",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2168,
+    "agua_ml": 2073,
+    "actividad_min": 8,
+    "peso_kg": "79.32",
+    "adherencia": 79
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 82,
+  "fields": {
+    "cita": 29,
+    "fecha": "2025-11-26",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": null,
+    "agua_ml": 3405,
+    "actividad_min": 39,
+    "peso_kg": "79.31",
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 83,
+  "fields": {
+    "cita": 29,
+    "fecha": "2025-11-27",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2031,
+    "agua_ml": 3094,
+    "actividad_min": 37,
+    "peso_kg": null,
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 84,
+  "fields": {
+    "cita": 29,
+    "fecha": "2025-11-28",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1608,
+    "agua_ml": 1972,
+    "actividad_min": 41,
+    "peso_kg": null,
+    "adherencia": 67
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 85,
+  "fields": {
+    "cita": 29,
+    "fecha": "2025-11-29",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 1523,
+    "agua_ml": null,
+    "actividad_min": 11,
+    "peso_kg": "79.54",
+    "adherencia": 50
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 86,
+  "fields": {
+    "cita": 29,
+    "fecha": "2025-11-30",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2454,
+    "agua_ml": 1641,
+    "actividad_min": 27,
+    "peso_kg": "79.49",
+    "adherencia": 83
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 87,
+  "fields": {
+    "cita": 29,
+    "fecha": "2025-12-01",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 1770,
+    "agua_ml": 1849,
+    "actividad_min": 19,
+    "peso_kg": "79.37",
+    "adherencia": 56
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 88,
+  "fields": {
+    "cita": 29,
+    "fecha": "2025-12-02",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2251,
+    "agua_ml": 2972,
+    "actividad_min": 3,
+    "peso_kg": null,
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 89,
+  "fields": {
+    "cita": 29,
+    "fecha": "2025-12-03",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1562,
+    "agua_ml": 1756,
+    "actividad_min": 45,
+    "peso_kg": "79.78",
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 90,
+  "fields": {
+    "cita": 30,
+    "fecha": "2025-12-09",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1728,
+    "agua_ml": 2712,
+    "actividad_min": 12,
+    "peso_kg": "89.85",
+    "adherencia": 93
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 91,
+  "fields": {
+    "cita": 30,
+    "fecha": "2025-12-10",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 1993,
+    "agua_ml": 1691,
+    "actividad_min": 48,
+    "peso_kg": "89.74",
+    "adherencia": 60
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 92,
+  "fields": {
+    "cita": 30,
+    "fecha": "2025-12-11",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2539,
+    "agua_ml": null,
+    "actividad_min": 58,
+    "peso_kg": "89.37",
+    "adherencia": 62
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 93,
+  "fields": {
+    "cita": 30,
+    "fecha": "2025-12-12",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 1537,
+    "agua_ml": 1992,
+    "actividad_min": 35,
+    "peso_kg": "89.72",
+    "adherencia": 74
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 94,
+  "fields": {
+    "cita": 30,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2433,
+    "agua_ml": 3489,
+    "actividad_min": null,
+    "peso_kg": "89.45",
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 95,
+  "fields": {
+    "cita": 30,
+    "fecha": "2025-12-14",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2242,
+    "agua_ml": 2263,
+    "actividad_min": 18,
+    "peso_kg": null,
+    "adherencia": 83
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 96,
+  "fields": {
+    "cita": 31,
+    "fecha": "2025-12-04",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 1879,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 97,
+  "fields": {
+    "cita": 31,
+    "fecha": "2025-12-05",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 1711,
+    "agua_ml": 3498,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 75
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 98,
+  "fields": {
+    "cita": 31,
+    "fecha": "2025-12-06",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2225,
+    "agua_ml": 2337,
+    "actividad_min": 55,
+    "peso_kg": "88.21",
+    "adherencia": 90
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 99,
+  "fields": {
+    "cita": 31,
+    "fecha": "2025-12-07",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1775,
+    "agua_ml": 2018,
+    "actividad_min": 44,
+    "peso_kg": "88.38",
+    "adherencia": 65
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 100,
+  "fields": {
+    "cita": 31,
+    "fecha": "2025-12-08",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2414,
+    "agua_ml": 2820,
+    "actividad_min": 15,
+    "peso_kg": "88.25",
+    "adherencia": 99
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 101,
+  "fields": {
+    "cita": 31,
+    "fecha": "2025-12-09",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1861,
+    "agua_ml": 2528,
+    "actividad_min": null,
+    "peso_kg": "88.31",
+    "adherencia": 87
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 102,
+  "fields": {
+    "cita": 31,
+    "fecha": "2025-12-10",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 1701,
+    "agua_ml": null,
+    "actividad_min": 3,
+    "peso_kg": "88.25",
+    "adherencia": 44
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 103,
+  "fields": {
+    "cita": 31,
+    "fecha": "2025-12-11",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1889,
+    "agua_ml": 2099,
+    "actividad_min": 4,
+    "peso_kg": "88.35",
+    "adherencia": 75
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 104,
+  "fields": {
+    "cita": 31,
+    "fecha": "2025-12-12",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": null,
+    "agua_ml": 3083,
+    "actividad_min": 23,
+    "peso_kg": "88.52",
+    "adherencia": 97
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 105,
+  "fields": {
+    "cita": 31,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2529,
+    "agua_ml": 2515,
+    "actividad_min": 0,
+    "peso_kg": "88.19",
+    "adherencia": 78
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 106,
+  "fields": {
+    "cita": 32,
+    "fecha": "2025-11-29",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1548,
+    "agua_ml": 1726,
+    "actividad_min": 12,
+    "peso_kg": "86.79",
+    "adherencia": 64
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 107,
+  "fields": {
+    "cita": 32,
+    "fecha": "2025-11-30",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1676,
+    "agua_ml": 3282,
+    "actividad_min": 7,
+    "peso_kg": null,
+    "adherencia": 92
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 108,
+  "fields": {
+    "cita": 32,
+    "fecha": "2025-12-01",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1849,
+    "agua_ml": 2051,
+    "actividad_min": null,
+    "peso_kg": "86.56",
+    "adherencia": 64
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 109,
+  "fields": {
+    "cita": 32,
+    "fecha": "2025-12-02",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2185,
+    "agua_ml": 2310,
+    "actividad_min": 27,
+    "peso_kg": null,
+    "adherencia": 65
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 110,
+  "fields": {
+    "cita": 32,
+    "fecha": "2025-12-03",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2082,
+    "agua_ml": 2802,
+    "actividad_min": null,
+    "peso_kg": "86.95",
+    "adherencia": 67
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 111,
+  "fields": {
+    "cita": 32,
+    "fecha": "2025-12-04",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2195,
+    "agua_ml": 3079,
+    "actividad_min": 29,
+    "peso_kg": null,
+    "adherencia": 69
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 112,
+  "fields": {
+    "cita": 32,
+    "fecha": "2025-12-05",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": null,
+    "agua_ml": 2713,
+    "actividad_min": 16,
+    "peso_kg": "86.45",
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 113,
+  "fields": {
+    "cita": 32,
+    "fecha": "2025-12-06",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": null,
+    "agua_ml": 2008,
+    "actividad_min": 21,
+    "peso_kg": "86.49",
+    "adherencia": 45
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 114,
+  "fields": {
+    "cita": 32,
+    "fecha": "2025-12-07",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": null,
+    "agua_ml": 3150,
+    "actividad_min": 41,
+    "peso_kg": null,
+    "adherencia": 77
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 115,
+  "fields": {
+    "cita": 37,
+    "fecha": "2025-11-10",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2162,
+    "agua_ml": 2344,
+    "actividad_min": 17,
+    "peso_kg": "64.00",
+    "adherencia": 63
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 116,
+  "fields": {
+    "cita": 37,
+    "fecha": "2025-11-11",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1740,
+    "agua_ml": 2489,
+    "actividad_min": 54,
+    "peso_kg": "64.09",
+    "adherencia": 77
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 117,
+  "fields": {
+    "cita": 37,
+    "fecha": "2025-11-12",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2471,
+    "agua_ml": 3022,
+    "actividad_min": 41,
+    "peso_kg": "63.91",
+    "adherencia": 75
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 118,
+  "fields": {
+    "cita": 37,
+    "fecha": "2025-11-13",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 1559,
+    "agua_ml": 1654,
+    "actividad_min": 8,
+    "peso_kg": "63.68",
+    "adherencia": 70
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 119,
+  "fields": {
+    "cita": 37,
+    "fecha": "2025-11-14",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 1792,
+    "agua_ml": null,
+    "actividad_min": 40,
+    "peso_kg": null,
+    "adherencia": 50
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 120,
+  "fields": {
+    "cita": 37,
+    "fecha": "2025-11-15",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 2468,
+    "agua_ml": 2743,
+    "actividad_min": 4,
+    "peso_kg": "63.88",
+    "adherencia": 50
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 121,
+  "fields": {
+    "cita": 37,
+    "fecha": "2025-11-16",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2319,
+    "agua_ml": 1880,
+    "actividad_min": null,
+    "peso_kg": "64.02",
+    "adherencia": 85
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 122,
+  "fields": {
+    "cita": 37,
+    "fecha": "2025-11-17",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1524,
+    "agua_ml": 3123,
+    "actividad_min": 59,
+    "peso_kg": null,
+    "adherencia": 60
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 123,
+  "fields": {
+    "cita": 37,
+    "fecha": "2025-11-18",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 2558,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 52
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 124,
+  "fields": {
+    "cita": 37,
+    "fecha": "2025-11-19",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": null,
+    "agua_ml": 1589,
+    "actividad_min": 42,
+    "peso_kg": "64.04",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 125,
+  "fields": {
+    "cita": 38,
+    "fecha": "2025-11-11",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 2019,
+    "agua_ml": 2805,
+    "actividad_min": 10,
+    "peso_kg": null,
+    "adherencia": 58
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 126,
+  "fields": {
+    "cita": 38,
+    "fecha": "2025-11-12",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 1919,
+    "agua_ml": 1694,
+    "actividad_min": 40,
+    "peso_kg": null,
+    "adherencia": 31
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 127,
+  "fields": {
+    "cita": 38,
+    "fecha": "2025-11-13",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1953,
+    "agua_ml": 3158,
+    "actividad_min": 32,
+    "peso_kg": null,
+    "adherencia": 72
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 128,
+  "fields": {
+    "cita": 38,
+    "fecha": "2025-11-14",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1655,
+    "agua_ml": 3426,
+    "actividad_min": 18,
+    "peso_kg": "90.35",
+    "adherencia": 68
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 129,
+  "fields": {
+    "cita": 38,
+    "fecha": "2025-11-15",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": null,
+    "agua_ml": 2043,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 67
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 130,
+  "fields": {
+    "cita": 38,
+    "fecha": "2025-11-16",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2258,
+    "agua_ml": 2286,
+    "actividad_min": 51,
+    "peso_kg": "90.32",
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 131,
+  "fields": {
+    "cita": 38,
+    "fecha": "2025-11-17",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": null,
+    "agua_ml": 1872,
+    "actividad_min": null,
+    "peso_kg": "90.43",
+    "adherencia": 92
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 132,
+  "fields": {
+    "cita": 38,
+    "fecha": "2025-11-18",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1746,
+    "agua_ml": 2430,
+    "actividad_min": 57,
+    "peso_kg": "90.35",
+    "adherencia": 86
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 133,
+  "fields": {
+    "cita": 38,
+    "fecha": "2025-11-19",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2083,
+    "agua_ml": null,
+    "actividad_min": 27,
+    "peso_kg": "90.58",
+    "adherencia": 97
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 134,
+  "fields": {
+    "cita": 38,
+    "fecha": "2025-11-20",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1637,
+    "agua_ml": null,
+    "actividad_min": 3,
+    "peso_kg": null,
+    "adherencia": 69
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 135,
+  "fields": {
+    "cita": 38,
+    "fecha": "2025-11-21",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2535,
+    "agua_ml": 2964,
+    "actividad_min": 30,
+    "peso_kg": "90.58",
+    "adherencia": 95
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 136,
+  "fields": {
+    "cita": 39,
+    "fecha": "2025-12-11",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1781,
+    "agua_ml": 1695,
+    "actividad_min": 9,
+    "peso_kg": "68.13",
+    "adherencia": 75
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 137,
+  "fields": {
+    "cita": 39,
+    "fecha": "2025-12-12",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2508,
+    "agua_ml": 2602,
+    "actividad_min": 58,
+    "peso_kg": null,
+    "adherencia": 70
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 138,
+  "fields": {
+    "cita": 39,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1875,
+    "agua_ml": 2616,
+    "actividad_min": 60,
+    "peso_kg": "68.41",
+    "adherencia": 82
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 139,
+  "fields": {
+    "cita": 39,
+    "fecha": "2025-12-14",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1524,
+    "agua_ml": 2529,
+    "actividad_min": 60,
+    "peso_kg": "68.35",
+    "adherencia": 82
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 140,
+  "fields": {
+    "cita": 41,
+    "fecha": "2025-12-04",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2491,
+    "agua_ml": 1568,
+    "actividad_min": 49,
+    "peso_kg": null,
+    "adherencia": 100
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 141,
+  "fields": {
+    "cita": 41,
+    "fecha": "2025-12-05",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1782,
+    "agua_ml": 1798,
+    "actividad_min": 22,
+    "peso_kg": "58.91",
+    "adherencia": 84
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 142,
+  "fields": {
+    "cita": 41,
+    "fecha": "2025-12-06",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2439,
+    "agua_ml": null,
+    "actividad_min": 4,
+    "peso_kg": null,
+    "adherencia": 97
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 143,
+  "fields": {
+    "cita": 41,
+    "fecha": "2025-12-07",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2581,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 69
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 144,
+  "fields": {
+    "cita": 41,
+    "fecha": "2025-12-08",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": null,
+    "agua_ml": 2366,
+    "actividad_min": 53,
+    "peso_kg": "59.14",
+    "adherencia": 77
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 145,
+  "fields": {
+    "cita": 41,
+    "fecha": "2025-12-09",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": null,
+    "agua_ml": 2440,
+    "actividad_min": 25,
+    "peso_kg": "58.89",
+    "adherencia": 54
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 146,
+  "fields": {
+    "cita": 41,
+    "fecha": "2025-12-10",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": null,
+    "agua_ml": 1605,
+    "actividad_min": null,
+    "peso_kg": "58.61",
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 147,
+  "fields": {
+    "cita": 41,
+    "fecha": "2025-12-11",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 1980,
+    "agua_ml": null,
+    "actividad_min": 10,
+    "peso_kg": "58.83",
+    "adherencia": 47
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 148,
+  "fields": {
+    "cita": 41,
+    "fecha": "2025-12-12",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 2122,
+    "agua_ml": 2838,
+    "actividad_min": 0,
+    "peso_kg": null,
+    "adherencia": 30
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 149,
+  "fields": {
+    "cita": 41,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2344,
+    "agua_ml": null,
+    "actividad_min": 40,
+    "peso_kg": "59.05",
+    "adherencia": 98
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 150,
+  "fields": {
+    "cita": 45,
+    "fecha": "2025-11-20",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 2442,
+    "agua_ml": 2703,
+    "actividad_min": 56,
+    "peso_kg": "61.28",
+    "adherencia": 47
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 151,
+  "fields": {
+    "cita": 45,
+    "fecha": "2025-11-21",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1949,
+    "agua_ml": 2128,
+    "actividad_min": 13,
+    "peso_kg": null,
+    "adherencia": 70
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 152,
+  "fields": {
+    "cita": 45,
+    "fecha": "2025-11-22",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1913,
+    "agua_ml": 2536,
+    "actividad_min": 38,
+    "peso_kg": "61.13",
+    "adherencia": 67
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 153,
+  "fields": {
+    "cita": 45,
+    "fecha": "2025-11-23",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 1662,
+    "agua_ml": 2030,
+    "actividad_min": null,
+    "peso_kg": "61.30",
+    "adherencia": 65
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 154,
+  "fields": {
+    "cita": 45,
+    "fecha": "2025-11-24",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 2127,
+    "agua_ml": 2615,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 72
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 155,
+  "fields": {
+    "cita": 45,
+    "fecha": "2025-11-25",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": null,
+    "agua_ml": 1929,
+    "actividad_min": 2,
+    "peso_kg": "61.21",
+    "adherencia": 62
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 156,
+  "fields": {
+    "cita": 45,
+    "fecha": "2025-11-26",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2293,
+    "agua_ml": 1540,
+    "actividad_min": 42,
+    "peso_kg": "61.23",
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 157,
+  "fields": {
+    "cita": 45,
+    "fecha": "2025-11-27",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 1542,
+    "agua_ml": null,
+    "actividad_min": 17,
+    "peso_kg": "61.10",
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 158,
+  "fields": {
+    "cita": 45,
+    "fecha": "2025-11-28",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1531,
+    "agua_ml": 3300,
+    "actividad_min": 5,
+    "peso_kg": null,
+    "adherencia": 90
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 159,
+  "fields": {
+    "cita": 45,
+    "fecha": "2025-11-29",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2115,
+    "agua_ml": 2304,
+    "actividad_min": null,
+    "peso_kg": "61.06",
+    "adherencia": 80
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 160,
+  "fields": {
+    "cita": 46,
+    "fecha": "2025-11-06",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2341,
+    "agua_ml": 2594,
+    "actividad_min": null,
+    "peso_kg": "56.56",
+    "adherencia": 60
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 161,
+  "fields": {
+    "cita": 46,
+    "fecha": "2025-11-07",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1975,
+    "agua_ml": 2322,
+    "actividad_min": 21,
+    "peso_kg": null,
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 162,
+  "fields": {
+    "cita": 46,
+    "fecha": "2025-11-08",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 2362,
+    "agua_ml": 2447,
+    "actividad_min": 55,
+    "peso_kg": "56.65",
+    "adherencia": 74
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 163,
+  "fields": {
+    "cita": 46,
+    "fecha": "2025-11-09",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1707,
+    "agua_ml": 2925,
+    "actividad_min": 37,
+    "peso_kg": null,
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 164,
+  "fields": {
+    "cita": 46,
+    "fecha": "2025-11-10",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2161,
+    "agua_ml": 2007,
+    "actividad_min": 53,
+    "peso_kg": null,
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 165,
+  "fields": {
+    "cita": 46,
+    "fecha": "2025-11-11",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 2501,
+    "agua_ml": 1863,
+    "actividad_min": 15,
+    "peso_kg": null,
+    "adherencia": 45
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 166,
+  "fields": {
+    "cita": 47,
+    "fecha": "2025-11-28",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2282,
+    "agua_ml": 2509,
+    "actividad_min": 34,
+    "peso_kg": "81.91",
+    "adherencia": 89
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 167,
+  "fields": {
+    "cita": 47,
+    "fecha": "2025-11-29",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1530,
+    "agua_ml": 2102,
+    "actividad_min": 54,
+    "peso_kg": "82.07",
+    "adherencia": 89
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 168,
+  "fields": {
+    "cita": 47,
+    "fecha": "2025-11-30",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2048,
+    "agua_ml": 2953,
+    "actividad_min": null,
+    "peso_kg": "81.63",
+    "adherencia": 62
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 169,
+  "fields": {
+    "cita": 47,
+    "fecha": "2025-12-01",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1789,
+    "agua_ml": 2187,
+    "actividad_min": null,
+    "peso_kg": "81.94",
+    "adherencia": 80
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 170,
+  "fields": {
+    "cita": 47,
+    "fecha": "2025-12-02",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": null,
+    "agua_ml": 3123,
+    "actividad_min": 42,
+    "peso_kg": "81.60",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 171,
+  "fields": {
+    "cita": 47,
+    "fecha": "2025-12-03",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 1935,
+    "agua_ml": 2735,
+    "actividad_min": 23,
+    "peso_kg": "81.73",
+    "adherencia": 32
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 172,
+  "fields": {
+    "cita": 47,
+    "fecha": "2025-12-04",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2492,
+    "agua_ml": 3340,
+    "actividad_min": 28,
+    "peso_kg": "81.57",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 173,
+  "fields": {
+    "cita": 47,
+    "fecha": "2025-12-05",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2523,
+    "agua_ml": 2105,
+    "actividad_min": null,
+    "peso_kg": "81.52",
+    "adherencia": 78
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 174,
+  "fields": {
+    "cita": 48,
+    "fecha": "2025-11-24",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2159,
+    "agua_ml": 2979,
+    "actividad_min": 11,
+    "peso_kg": "85.22",
+    "adherencia": 89
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 175,
+  "fields": {
+    "cita": 48,
+    "fecha": "2025-11-25",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1869,
+    "agua_ml": 2081,
+    "actividad_min": 59,
+    "peso_kg": "85.59",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 176,
+  "fields": {
+    "cita": 48,
+    "fecha": "2025-11-26",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1962,
+    "agua_ml": 3360,
+    "actividad_min": 46,
+    "peso_kg": null,
+    "adherencia": 93
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 177,
+  "fields": {
+    "cita": 48,
+    "fecha": "2025-11-27",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": null,
+    "agua_ml": 2719,
+    "actividad_min": null,
+    "peso_kg": "85.19",
+    "adherencia": 86
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 178,
+  "fields": {
+    "cita": 48,
+    "fecha": "2025-11-28",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1630,
+    "agua_ml": 2092,
+    "actividad_min": null,
+    "peso_kg": "85.38",
+    "adherencia": 84
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 179,
+  "fields": {
+    "cita": 48,
+    "fecha": "2025-11-29",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1583,
+    "agua_ml": 3363,
+    "actividad_min": 7,
+    "peso_kg": "85.66",
+    "adherencia": 90
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 180,
+  "fields": {
+    "cita": 48,
+    "fecha": "2025-11-30",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": null,
+    "agua_ml": 2638,
+    "actividad_min": 37,
+    "peso_kg": "85.20",
+    "adherencia": 100
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 181,
+  "fields": {
+    "cita": 48,
+    "fecha": "2025-12-01",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2081,
+    "agua_ml": 2707,
+    "actividad_min": 58,
+    "peso_kg": "85.36",
+    "adherencia": 91
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 182,
+  "fields": {
+    "cita": 49,
+    "fecha": "2025-12-12",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2145,
+    "agua_ml": 2626,
+    "actividad_min": null,
+    "peso_kg": "76.08",
+    "adherencia": 72
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 183,
+  "fields": {
+    "cita": 49,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1686,
+    "agua_ml": null,
+    "actividad_min": 50,
+    "peso_kg": "76.01",
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 184,
+  "fields": {
+    "cita": 49,
+    "fecha": "2025-12-14",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 1863,
+    "agua_ml": 3365,
+    "actividad_min": 33,
+    "peso_kg": "76.01",
+    "adherencia": 68
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 185,
+  "fields": {
+    "cita": 50,
+    "fecha": "2025-11-13",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2515,
+    "agua_ml": 3371,
+    "actividad_min": 1,
+    "peso_kg": "94.85",
+    "adherencia": 98
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 186,
+  "fields": {
+    "cita": 50,
+    "fecha": "2025-11-14",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1652,
+    "agua_ml": 2482,
+    "actividad_min": 41,
+    "peso_kg": "94.42",
+    "adherencia": 63
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 187,
+  "fields": {
+    "cita": 50,
+    "fecha": "2025-11-15",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": null,
+    "agua_ml": 2890,
+    "actividad_min": 43,
+    "peso_kg": "94.44",
+    "adherencia": 84
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 188,
+  "fields": {
+    "cita": 50,
+    "fecha": "2025-11-16",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 1873,
+    "agua_ml": 2776,
+    "actividad_min": 0,
+    "peso_kg": "94.86",
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 189,
+  "fields": {
+    "cita": 50,
+    "fecha": "2025-11-17",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1928,
+    "agua_ml": 2415,
+    "actividad_min": 4,
+    "peso_kg": "94.87",
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 190,
+  "fields": {
+    "cita": 50,
+    "fecha": "2025-11-18",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1736,
+    "agua_ml": 2187,
+    "actividad_min": null,
+    "peso_kg": "94.89",
+    "adherencia": 91
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 191,
+  "fields": {
+    "cita": 50,
+    "fecha": "2025-11-19",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2099,
+    "agua_ml": 1699,
+    "actividad_min": 43,
+    "peso_kg": "94.51",
+    "adherencia": 95
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 192,
+  "fields": {
+    "cita": 50,
+    "fecha": "2025-11-20",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": null,
+    "agua_ml": 2397,
+    "actividad_min": null,
+    "peso_kg": "94.39",
+    "adherencia": 36
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 193,
+  "fields": {
+    "cita": 50,
+    "fecha": "2025-11-21",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1715,
+    "agua_ml": 2399,
+    "actividad_min": 11,
+    "peso_kg": "94.97",
+    "adherencia": 75
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 194,
+  "fields": {
+    "cita": 50,
+    "fecha": "2025-11-22",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1750,
+    "agua_ml": 2514,
+    "actividad_min": 45,
+    "peso_kg": null,
+    "adherencia": 78
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 195,
+  "fields": {
+    "cita": 51,
+    "fecha": "2025-11-15",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": null,
+    "agua_ml": 2145,
+    "actividad_min": null,
+    "peso_kg": "60.43",
+    "adherencia": 87
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 196,
+  "fields": {
+    "cita": 51,
+    "fecha": "2025-11-16",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2130,
+    "agua_ml": 1944,
+    "actividad_min": 16,
+    "peso_kg": "60.27",
+    "adherencia": 70
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 197,
+  "fields": {
+    "cita": 51,
+    "fecha": "2025-11-17",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2536,
+    "agua_ml": 3129,
+    "actividad_min": null,
+    "peso_kg": "60.62",
+    "adherencia": 88
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 198,
+  "fields": {
+    "cita": 51,
+    "fecha": "2025-11-18",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2267,
+    "agua_ml": 2282,
+    "actividad_min": 59,
+    "peso_kg": null,
+    "adherencia": 89
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 199,
+  "fields": {
+    "cita": 51,
+    "fecha": "2025-11-19",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 2422,
+    "agua_ml": 1619,
+    "actividad_min": 48,
+    "peso_kg": "60.14",
+    "adherencia": 46
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 200,
+  "fields": {
+    "cita": 53,
+    "fecha": "2025-11-05",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1589,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 98
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 201,
+  "fields": {
+    "cita": 53,
+    "fecha": "2025-11-06",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2271,
+    "agua_ml": 2170,
+    "actividad_min": 54,
+    "peso_kg": "78.78",
+    "adherencia": 99
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 202,
+  "fields": {
+    "cita": 53,
+    "fecha": "2025-11-07",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2449,
+    "agua_ml": 1631,
+    "actividad_min": 19,
+    "peso_kg": "78.88",
+    "adherencia": 91
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 203,
+  "fields": {
+    "cita": 53,
+    "fecha": "2025-11-08",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": null,
+    "agua_ml": 2600,
+    "actividad_min": 22,
+    "peso_kg": null,
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 204,
+  "fields": {
+    "cita": 53,
+    "fecha": "2025-11-09",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": null,
+    "agua_ml": 2207,
+    "actividad_min": 11,
+    "peso_kg": "78.93",
+    "adherencia": 86
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 205,
+  "fields": {
+    "cita": 53,
+    "fecha": "2025-11-10",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1888,
+    "agua_ml": 2633,
+    "actividad_min": 26,
+    "peso_kg": null,
+    "adherencia": 88
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 206,
+  "fields": {
+    "cita": 55,
+    "fecha": "2025-11-17",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2592,
+    "agua_ml": 3400,
+    "actividad_min": 28,
+    "peso_kg": "84.61",
+    "adherencia": 86
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 207,
+  "fields": {
+    "cita": 55,
+    "fecha": "2025-11-18",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2267,
+    "agua_ml": 2414,
+    "actividad_min": 19,
+    "peso_kg": "84.82",
+    "adherencia": 89
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 208,
+  "fields": {
+    "cita": 55,
+    "fecha": "2025-11-19",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": null,
+    "agua_ml": 3276,
+    "actividad_min": 52,
+    "peso_kg": null,
+    "adherencia": 62
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 209,
+  "fields": {
+    "cita": 55,
+    "fecha": "2025-11-20",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2079,
+    "agua_ml": 2632,
+    "actividad_min": 52,
+    "peso_kg": "84.84",
+    "adherencia": 99
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 210,
+  "fields": {
+    "cita": 55,
+    "fecha": "2025-11-21",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1718,
+    "agua_ml": 2286,
+    "actividad_min": 15,
+    "peso_kg": "84.48",
+    "adherencia": 85
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 211,
+  "fields": {
+    "cita": 55,
+    "fecha": "2025-11-22",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2354,
+    "agua_ml": 3314,
+    "actividad_min": 4,
+    "peso_kg": "84.47",
+    "adherencia": 96
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 212,
+  "fields": {
+    "cita": 55,
+    "fecha": "2025-11-23",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": null,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": "84.46",
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 213,
+  "fields": {
+    "cita": 55,
+    "fecha": "2025-11-24",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": null,
+    "agua_ml": 1874,
+    "actividad_min": 22,
+    "peso_kg": null,
+    "adherencia": 76
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 214,
+  "fields": {
+    "cita": 55,
+    "fecha": "2025-11-25",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 1823,
+    "agua_ml": 3331,
+    "actividad_min": 10,
+    "peso_kg": "84.90",
+    "adherencia": 63
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 215,
+  "fields": {
+    "cita": 55,
+    "fecha": "2025-11-26",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": null,
+    "agua_ml": 2719,
+    "actividad_min": 59,
+    "peso_kg": null,
+    "adherencia": 81
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 216,
+  "fields": {
+    "cita": 55,
+    "fecha": "2025-11-27",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1921,
+    "agua_ml": 1591,
+    "actividad_min": 35,
+    "peso_kg": "84.59",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 217,
+  "fields": {
+    "cita": 58,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1553,
+    "agua_ml": 2240,
+    "actividad_min": null,
+    "peso_kg": "64.01",
+    "adherencia": 60
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 218,
+  "fields": {
+    "cita": 58,
+    "fecha": "2025-12-14",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 2048,
+    "agua_ml": 1516,
+    "actividad_min": 16,
+    "peso_kg": null,
+    "adherencia": 43
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 219,
+  "fields": {
+    "cita": 60,
+    "fecha": "2025-12-09",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 2590,
+    "agua_ml": 2170,
+    "actividad_min": 48,
+    "peso_kg": "78.10",
+    "adherencia": 63
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 220,
+  "fields": {
+    "cita": 60,
+    "fecha": "2025-12-10",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1567,
+    "agua_ml": 3130,
+    "actividad_min": 32,
+    "peso_kg": "78.56",
+    "adherencia": 86
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 221,
+  "fields": {
+    "cita": 60,
+    "fecha": "2025-12-11",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 2374,
+    "agua_ml": 2801,
+    "actividad_min": 23,
+    "peso_kg": null,
+    "adherencia": 35
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 222,
+  "fields": {
+    "cita": 60,
+    "fecha": "2025-12-12",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2390,
+    "agua_ml": 2412,
+    "actividad_min": 32,
+    "peso_kg": null,
+    "adherencia": 72
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 223,
+  "fields": {
+    "cita": 60,
+    "fecha": "2025-12-13",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": null,
+    "agua_ml": 3400,
+    "actividad_min": 33,
+    "peso_kg": "78.34",
+    "adherencia": 70
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 224,
+  "fields": {
+    "cita": 60,
+    "fecha": "2025-12-14",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2259,
+    "agua_ml": null,
+    "actividad_min": 54,
+    "peso_kg": null,
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 225,
+  "fields": {
+    "cita": 64,
+    "fecha": "2025-11-23",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": null,
+    "agua_ml": 3236,
+    "actividad_min": 56,
+    "peso_kg": "63.23",
+    "adherencia": 81
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 226,
+  "fields": {
+    "cita": 64,
+    "fecha": "2025-11-24",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 1714,
+    "agua_ml": 1622,
+    "actividad_min": 50,
+    "peso_kg": "63.39",
+    "adherencia": 75
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 227,
+  "fields": {
+    "cita": 64,
+    "fecha": "2025-11-25",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1630,
+    "agua_ml": 3026,
+    "actividad_min": 35,
+    "peso_kg": "63.53",
+    "adherencia": 100
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 228,
+  "fields": {
+    "cita": 64,
+    "fecha": "2025-11-26",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 2179,
+    "agua_ml": 2634,
+    "actividad_min": null,
+    "peso_kg": "63.09",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 229,
+  "fields": {
+    "cita": 64,
+    "fecha": "2025-11-27",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 1685,
+    "agua_ml": 3019,
+    "actividad_min": null,
+    "peso_kg": "63.46",
+    "adherencia": 48
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 230,
+  "fields": {
+    "cita": 64,
+    "fecha": "2025-11-28",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1511,
+    "agua_ml": 2634,
+    "actividad_min": 35,
+    "peso_kg": null,
+    "adherencia": 79
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 231,
+  "fields": {
+    "cita": 64,
+    "fecha": "2025-11-29",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1865,
+    "agua_ml": null,
+    "actividad_min": 2,
+    "peso_kg": null,
+    "adherencia": 68
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 232,
+  "fields": {
+    "cita": 64,
+    "fecha": "2025-11-30",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 2416,
+    "agua_ml": 2581,
+    "actividad_min": null,
+    "peso_kg": "63.40",
+    "adherencia": 48
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 233,
+  "fields": {
+    "cita": 65,
+    "fecha": "2025-12-01",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 1992,
+    "agua_ml": 2710,
+    "actividad_min": 29,
+    "peso_kg": "69.62",
+    "adherencia": 46
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 234,
+  "fields": {
+    "cita": 65,
+    "fecha": "2025-12-02",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2327,
+    "agua_ml": 1943,
+    "actividad_min": 12,
+    "peso_kg": "69.57",
+    "adherencia": 93
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 235,
+  "fields": {
+    "cita": 65,
+    "fecha": "2025-12-03",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": null,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 81
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 236,
+  "fields": {
+    "cita": 65,
+    "fecha": "2025-12-04",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2588,
+    "agua_ml": 2053,
+    "actividad_min": null,
+    "peso_kg": "69.82",
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 237,
+  "fields": {
+    "cita": 65,
+    "fecha": "2025-12-05",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 1855,
+    "agua_ml": 1819,
+    "actividad_min": 33,
+    "peso_kg": "69.46",
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 238,
+  "fields": {
+    "cita": 65,
+    "fecha": "2025-12-06",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 1520,
+    "agua_ml": 1868,
+    "actividad_min": 13,
+    "peso_kg": "69.89",
+    "adherencia": 48
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 239,
+  "fields": {
+    "cita": 66,
+    "fecha": "2025-11-28",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2302,
+    "agua_ml": 1642,
+    "actividad_min": 48,
+    "peso_kg": "59.26",
+    "adherencia": 70
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 240,
+  "fields": {
+    "cita": 66,
+    "fecha": "2025-11-29",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2404,
+    "agua_ml": 1892,
+    "actividad_min": 53,
+    "peso_kg": "59.47",
+    "adherencia": 80
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 241,
+  "fields": {
+    "cita": 66,
+    "fecha": "2025-11-30",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2053,
+    "agua_ml": 2122,
+    "actividad_min": 54,
+    "peso_kg": null,
+    "adherencia": 79
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 242,
+  "fields": {
+    "cita": 66,
+    "fecha": "2025-12-01",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1600,
+    "agua_ml": 2595,
+    "actividad_min": 4,
+    "peso_kg": null,
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 243,
+  "fields": {
+    "cita": 66,
+    "fecha": "2025-12-02",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1623,
+    "agua_ml": 3170,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 100
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 244,
+  "fields": {
+    "cita": 66,
+    "fecha": "2025-12-03",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2523,
+    "agua_ml": 2878,
+    "actividad_min": 0,
+    "peso_kg": null,
+    "adherencia": 92
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 245,
+  "fields": {
+    "cita": 66,
+    "fecha": "2025-12-04",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": null,
+    "agua_ml": 2496,
+    "actividad_min": 34,
+    "peso_kg": null,
+    "adherencia": 75
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 246,
+  "fields": {
+    "cita": 66,
+    "fecha": "2025-12-05",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1507,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": "59.50",
+    "adherencia": 76
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 247,
+  "fields": {
+    "cita": 66,
+    "fecha": "2025-12-06",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 1985,
+    "agua_ml": 3457,
+    "actividad_min": 49,
+    "peso_kg": "59.25",
+    "adherencia": 40
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 248,
+  "fields": {
+    "cita": 67,
+    "fecha": "2025-11-21",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": null,
+    "agua_ml": 2887,
+    "actividad_min": null,
+    "peso_kg": "55.30",
+    "adherencia": 83
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 249,
+  "fields": {
+    "cita": 67,
+    "fecha": "2025-11-22",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1525,
+    "agua_ml": null,
+    "actividad_min": 35,
+    "peso_kg": "55.64",
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 250,
+  "fields": {
+    "cita": 67,
+    "fecha": "2025-11-23",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2422,
+    "agua_ml": 1707,
+    "actividad_min": null,
+    "peso_kg": "55.72",
+    "adherencia": 74
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 251,
+  "fields": {
+    "cita": 67,
+    "fecha": "2025-11-24",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 1663,
+    "agua_ml": 2198,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 32
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 252,
+  "fields": {
+    "cita": 67,
+    "fecha": "2025-11-25",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1800,
+    "agua_ml": null,
+    "actividad_min": 13,
+    "peso_kg": null,
+    "adherencia": 97
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 253,
+  "fields": {
+    "cita": 67,
+    "fecha": "2025-11-26",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 2347,
+    "agua_ml": 3201,
+    "actividad_min": 45,
+    "peso_kg": "55.77",
+    "adherencia": 46
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 254,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-11-28",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 1811,
+    "agua_ml": 3346,
+    "actividad_min": 45,
+    "peso_kg": "60.93",
+    "adherencia": 40
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 255,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-11-29",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": null,
+    "agua_ml": 3310,
+    "actividad_min": 2,
+    "peso_kg": "60.56",
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 256,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-11-30",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": null,
+    "agua_ml": 1634,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 257,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-12-01",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2260,
+    "agua_ml": 2902,
+    "actividad_min": 11,
+    "peso_kg": "60.78",
+    "adherencia": 72
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 258,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-12-02",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 1638,
+    "agua_ml": 3002,
+    "actividad_min": null,
+    "peso_kg": "60.78",
+    "adherencia": 38
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 259,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-12-03",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1930,
+    "agua_ml": 2842,
+    "actividad_min": 40,
+    "peso_kg": null,
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 260,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-12-04",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": null,
+    "agua_ml": 1854,
+    "actividad_min": 39,
+    "peso_kg": null,
+    "adherencia": 39
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 261,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-12-05",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 2082,
+    "agua_ml": 2403,
+    "actividad_min": 59,
+    "peso_kg": "61.00",
+    "adherencia": 70
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 262,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-12-06",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2057,
+    "agua_ml": 2605,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 77
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 263,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-12-07",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2141,
+    "agua_ml": 3356,
+    "actividad_min": 7,
+    "peso_kg": "60.57",
+    "adherencia": 90
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 264,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-12-08",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1996,
+    "agua_ml": 2557,
+    "actividad_min": 31,
+    "peso_kg": null,
+    "adherencia": 82
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 265,
+  "fields": {
+    "cita": 68,
+    "fecha": "2025-12-09",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2208,
+    "agua_ml": 2274,
+    "actividad_min": 28,
+    "peso_kg": null,
+    "adherencia": 82
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 266,
+  "fields": {
+    "cita": 69,
+    "fecha": "2025-12-09",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1591,
+    "agua_ml": 1612,
+    "actividad_min": 22,
+    "peso_kg": "87.13",
+    "adherencia": 84
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 267,
+  "fields": {
+    "cita": 69,
+    "fecha": "2025-12-10",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": null,
+    "agua_ml": 1509,
+    "actividad_min": 12,
+    "peso_kg": "86.94",
+    "adherencia": 59
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 268,
+  "fields": {
+    "cita": 69,
+    "fecha": "2025-12-11",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2432,
+    "agua_ml": 3114,
+    "actividad_min": 54,
+    "peso_kg": "87.10",
+    "adherencia": 89
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 269,
+  "fields": {
+    "cita": 69,
+    "fecha": "2025-12-12",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1811,
+    "agua_ml": 2734,
+    "actividad_min": 59,
+    "peso_kg": "87.09",
+    "adherencia": 74
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 270,
+  "fields": {
+    "cita": 69,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2033,
+    "agua_ml": 2568,
+    "actividad_min": 44,
+    "peso_kg": "86.84",
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 271,
+  "fields": {
+    "cita": 69,
+    "fecha": "2025-12-14",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 2599,
+    "agua_ml": 2911,
+    "actividad_min": 53,
+    "peso_kg": "86.60",
+    "adherencia": 63
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 272,
+  "fields": {
+    "cita": 70,
+    "fecha": "2025-11-17",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 2123,
+    "agua_ml": 2291,
+    "actividad_min": 43,
+    "peso_kg": null,
+    "adherencia": 72
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 273,
+  "fields": {
+    "cita": 70,
+    "fecha": "2025-11-18",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2399,
+    "agua_ml": 3119,
+    "actividad_min": 37,
+    "peso_kg": "93.25",
+    "adherencia": 96
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 274,
+  "fields": {
+    "cita": 70,
+    "fecha": "2025-11-19",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": null,
+    "agua_ml": 1585,
+    "actividad_min": 52,
+    "peso_kg": "92.90",
+    "adherencia": 76
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 275,
+  "fields": {
+    "cita": 70,
+    "fecha": "2025-11-20",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2142,
+    "agua_ml": 1661,
+    "actividad_min": 28,
+    "peso_kg": "92.77",
+    "adherencia": 70
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 276,
+  "fields": {
+    "cita": 70,
+    "fecha": "2025-11-21",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1825,
+    "agua_ml": 1635,
+    "actividad_min": null,
+    "peso_kg": "93.33",
+    "adherencia": 62
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 277,
+  "fields": {
+    "cita": 70,
+    "fecha": "2025-11-22",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2257,
+    "agua_ml": 2283,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 99
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 278,
+  "fields": {
+    "cita": 70,
+    "fecha": "2025-11-23",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 2396,
+    "agua_ml": 2013,
+    "actividad_min": 40,
+    "peso_kg": "92.85",
+    "adherencia": 39
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 279,
+  "fields": {
+    "cita": 71,
+    "fecha": "2025-12-07",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2004,
+    "agua_ml": 2445,
+    "actividad_min": 41,
+    "peso_kg": null,
+    "adherencia": 100
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 280,
+  "fields": {
+    "cita": 71,
+    "fecha": "2025-12-08",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": null,
+    "agua_ml": 3116,
+    "actividad_min": 60,
+    "peso_kg": "73.11",
+    "adherencia": 74
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 281,
+  "fields": {
+    "cita": 71,
+    "fecha": "2025-12-09",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2243,
+    "agua_ml": null,
+    "actividad_min": 0,
+    "peso_kg": null,
+    "adherencia": 98
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 282,
+  "fields": {
+    "cita": 71,
+    "fecha": "2025-12-10",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1596,
+    "agua_ml": 3358,
+    "actividad_min": 26,
+    "peso_kg": null,
+    "adherencia": 97
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 283,
+  "fields": {
+    "cita": 71,
+    "fecha": "2025-12-11",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": null,
+    "agua_ml": 2412,
+    "actividad_min": 23,
+    "peso_kg": "72.83",
+    "adherencia": 98
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 284,
+  "fields": {
+    "cita": 71,
+    "fecha": "2025-12-12",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 2416,
+    "agua_ml": 3066,
+    "actividad_min": null,
+    "peso_kg": "72.53",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 285,
+  "fields": {
+    "cita": 71,
+    "fecha": "2025-12-13",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 2243,
+    "agua_ml": 1635,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 38
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 286,
+  "fields": {
+    "cita": 71,
+    "fecha": "2025-12-14",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": null,
+    "agua_ml": 2261,
+    "actividad_min": 44,
+    "peso_kg": "72.52",
+    "adherencia": 88
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 287,
+  "fields": {
+    "cita": 72,
+    "fecha": "2025-11-12",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 2455,
+    "agua_ml": 1817,
+    "actividad_min": 48,
+    "peso_kg": null,
+    "adherencia": 56
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 288,
+  "fields": {
+    "cita": 72,
+    "fecha": "2025-11-13",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2101,
+    "agua_ml": 1773,
+    "actividad_min": 25,
+    "peso_kg": "76.38",
+    "adherencia": 96
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 289,
+  "fields": {
+    "cita": 72,
+    "fecha": "2025-11-14",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1942,
+    "agua_ml": 3113,
+    "actividad_min": null,
+    "peso_kg": "76.76",
+    "adherencia": 97
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 290,
+  "fields": {
+    "cita": 72,
+    "fecha": "2025-11-15",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2271,
+    "agua_ml": 3472,
+    "actividad_min": 31,
+    "peso_kg": "76.29",
+    "adherencia": 82
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 291,
+  "fields": {
+    "cita": 72,
+    "fecha": "2025-11-16",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": null,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": "76.26",
+    "adherencia": 39
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 292,
+  "fields": {
+    "cita": 72,
+    "fecha": "2025-11-17",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1755,
+    "agua_ml": 1721,
+    "actividad_min": 48,
+    "peso_kg": "76.38",
+    "adherencia": 62
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 293,
+  "fields": {
+    "cita": 74,
+    "fecha": "2025-11-18",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": null,
+    "agua_ml": 1734,
+    "actividad_min": 12,
+    "peso_kg": "75.65",
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 294,
+  "fields": {
+    "cita": 74,
+    "fecha": "2025-11-19",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": null,
+    "agua_ml": 3155,
+    "actividad_min": 11,
+    "peso_kg": null,
+    "adherencia": 67
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 295,
+  "fields": {
+    "cita": 74,
+    "fecha": "2025-11-20",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 1618,
+    "agua_ml": 2072,
+    "actividad_min": 14,
+    "peso_kg": "75.91",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 296,
+  "fields": {
+    "cita": 74,
+    "fecha": "2025-11-21",
+    "cumplio": false,
+    "observaciones": "Apetito alto por estrés",
+    "calorias": 2442,
+    "agua_ml": 1863,
+    "actividad_min": null,
+    "peso_kg": "75.84",
+    "adherencia": 63
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 297,
+  "fields": {
+    "cita": 74,
+    "fecha": "2025-11-22",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": null,
+    "agua_ml": 3080,
+    "actividad_min": 19,
+    "peso_kg": "75.73",
+    "adherencia": 74
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 298,
+  "fields": {
+    "cita": 74,
+    "fecha": "2025-11-23",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2599,
+    "agua_ml": 2480,
+    "actividad_min": 0,
+    "peso_kg": null,
+    "adherencia": 77
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 299,
+  "fields": {
+    "cita": 74,
+    "fecha": "2025-11-24",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2093,
+    "agua_ml": null,
+    "actividad_min": 60,
+    "peso_kg": "75.84",
+    "adherencia": 99
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 300,
+  "fields": {
+    "cita": 74,
+    "fecha": "2025-11-25",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 1572,
+    "agua_ml": 2455,
+    "actividad_min": null,
+    "peso_kg": "75.60",
+    "adherencia": 34
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 301,
+  "fields": {
+    "cita": 74,
+    "fecha": "2025-11-26",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1904,
+    "agua_ml": 1907,
+    "actividad_min": 48,
+    "peso_kg": "75.88",
+    "adherencia": 80
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 302,
+  "fields": {
+    "cita": 74,
+    "fecha": "2025-11-27",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1551,
+    "agua_ml": 1870,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 303,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-11-25",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": null,
+    "agua_ml": 2473,
+    "actividad_min": 60,
+    "peso_kg": "70.10",
+    "adherencia": 100
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 304,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-11-26",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1903,
+    "agua_ml": 2229,
+    "actividad_min": 11,
+    "peso_kg": null,
+    "adherencia": 98
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 305,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-11-27",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 1680,
+    "agua_ml": 1795,
+    "actividad_min": 12,
+    "peso_kg": "70.50",
+    "adherencia": 68
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 306,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-11-28",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2170,
+    "agua_ml": 2907,
+    "actividad_min": null,
+    "peso_kg": "70.00",
+    "adherencia": 89
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 307,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-11-29",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2431,
+    "agua_ml": 2503,
+    "actividad_min": 53,
+    "peso_kg": "70.23",
+    "adherencia": 77
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 308,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-11-30",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2244,
+    "agua_ml": 2963,
+    "actividad_min": 27,
+    "peso_kg": "70.02",
+    "adherencia": 87
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 309,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-12-01",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2483,
+    "agua_ml": 1643,
+    "actividad_min": 4,
+    "peso_kg": "70.25",
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 310,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-12-02",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 1904,
+    "agua_ml": 1767,
+    "actividad_min": 36,
+    "peso_kg": "70.01",
+    "adherencia": 59
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 311,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-12-03",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1730,
+    "agua_ml": 2635,
+    "actividad_min": 41,
+    "peso_kg": null,
+    "adherencia": 95
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 312,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-12-04",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 2357,
+    "agua_ml": 1663,
+    "actividad_min": null,
+    "peso_kg": "69.94",
+    "adherencia": 54
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 313,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-12-05",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1521,
+    "agua_ml": 2054,
+    "actividad_min": 21,
+    "peso_kg": null,
+    "adherencia": 91
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 314,
+  "fields": {
+    "cita": 75,
+    "fecha": "2025-12-06",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 2313,
+    "agua_ml": null,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 44
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 315,
+  "fields": {
+    "cita": 76,
+    "fecha": "2025-12-05",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2473,
+    "agua_ml": 2237,
+    "actividad_min": 60,
+    "peso_kg": "74.56",
+    "adherencia": 62
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 316,
+  "fields": {
+    "cita": 76,
+    "fecha": "2025-12-06",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2248,
+    "agua_ml": 2539,
+    "actividad_min": 33,
+    "peso_kg": null,
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 317,
+  "fields": {
+    "cita": 76,
+    "fecha": "2025-12-07",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": null,
+    "agua_ml": 2760,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 73
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 318,
+  "fields": {
+    "cita": 76,
+    "fecha": "2025-12-08",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": null,
+    "agua_ml": 2556,
+    "actividad_min": null,
+    "peso_kg": "74.45",
+    "adherencia": 88
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 319,
+  "fields": {
+    "cita": 76,
+    "fecha": "2025-12-09",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2192,
+    "agua_ml": 2973,
+    "actividad_min": 51,
+    "peso_kg": "74.65",
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 320,
+  "fields": {
+    "cita": 77,
+    "fecha": "2025-12-04",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 2566,
+    "agua_ml": 1747,
+    "actividad_min": 40,
+    "peso_kg": "93.38",
+    "adherencia": 36
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 321,
+  "fields": {
+    "cita": 77,
+    "fecha": "2025-12-05",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1856,
+    "agua_ml": 1810,
+    "actividad_min": 24,
+    "peso_kg": null,
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 322,
+  "fields": {
+    "cita": 77,
+    "fecha": "2025-12-06",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2387,
+    "agua_ml": 2233,
+    "actividad_min": null,
+    "peso_kg": "93.37",
+    "adherencia": 93
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 323,
+  "fields": {
+    "cita": 77,
+    "fecha": "2025-12-07",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1923,
+    "agua_ml": 2903,
+    "actividad_min": 55,
+    "peso_kg": "93.38",
+    "adherencia": 78
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 324,
+  "fields": {
+    "cita": 77,
+    "fecha": "2025-12-08",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1691,
+    "agua_ml": 3462,
+    "actividad_min": 3,
+    "peso_kg": "93.82",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 325,
+  "fields": {
+    "cita": 78,
+    "fecha": "2025-11-10",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 2067,
+    "agua_ml": 3083,
+    "actividad_min": 58,
+    "peso_kg": "80.00",
+    "adherencia": 70
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 326,
+  "fields": {
+    "cita": 78,
+    "fecha": "2025-11-11",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2574,
+    "agua_ml": 3465,
+    "actividad_min": 48,
+    "peso_kg": "80.43",
+    "adherencia": 62
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 327,
+  "fields": {
+    "cita": 78,
+    "fecha": "2025-11-12",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2448,
+    "agua_ml": null,
+    "actividad_min": 8,
+    "peso_kg": "80.31",
+    "adherencia": 93
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 328,
+  "fields": {
+    "cita": 78,
+    "fecha": "2025-11-13",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2560,
+    "agua_ml": 2695,
+    "actividad_min": 15,
+    "peso_kg": "80.29",
+    "adherencia": 78
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 329,
+  "fields": {
+    "cita": 78,
+    "fecha": "2025-11-14",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 2316,
+    "agua_ml": 2797,
+    "actividad_min": 42,
+    "peso_kg": "80.00",
+    "adherencia": 88
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 330,
+  "fields": {
+    "cita": 78,
+    "fecha": "2025-11-15",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": null,
+    "agua_ml": 2074,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 90
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 331,
+  "fields": {
+    "cita": 78,
+    "fecha": "2025-11-16",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1735,
+    "agua_ml": 1736,
+    "actividad_min": 44,
+    "peso_kg": "80.46",
+    "adherencia": 69
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 332,
+  "fields": {
+    "cita": 82,
+    "fecha": "2025-11-14",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2001,
+    "agua_ml": 1681,
+    "actividad_min": null,
+    "peso_kg": "62.00",
+    "adherencia": 96
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 333,
+  "fields": {
+    "cita": 82,
+    "fecha": "2025-11-15",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 1801,
+    "agua_ml": 2239,
+    "actividad_min": 42,
+    "peso_kg": null,
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 334,
+  "fields": {
+    "cita": 82,
+    "fecha": "2025-11-16",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 1861,
+    "agua_ml": 2795,
+    "actividad_min": 13,
+    "peso_kg": "62.49",
+    "adherencia": 92
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 335,
+  "fields": {
+    "cita": 82,
+    "fecha": "2025-11-17",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2089,
+    "agua_ml": 3170,
+    "actividad_min": 28,
+    "peso_kg": "62.47",
+    "adherencia": 76
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 336,
+  "fields": {
+    "cita": 82,
+    "fecha": "2025-11-18",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2237,
+    "agua_ml": 3350,
+    "actividad_min": 16,
+    "peso_kg": "62.51",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 337,
+  "fields": {
+    "cita": 82,
+    "fecha": "2025-11-19",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 1664,
+    "agua_ml": 2409,
+    "actividad_min": null,
+    "peso_kg": "61.96",
+    "adherencia": 36
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 338,
+  "fields": {
+    "cita": 82,
+    "fecha": "2025-11-20",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": null,
+    "agua_ml": 1935,
+    "actividad_min": 15,
+    "peso_kg": null,
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 339,
+  "fields": {
+    "cita": 84,
+    "fecha": "2025-12-13",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1910,
+    "agua_ml": 1686,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 340,
+  "fields": {
+    "cita": 84,
+    "fecha": "2025-12-14",
+    "cumplio": true,
+    "observaciones": "Buen control de antojos",
+    "calorias": 2572,
+    "agua_ml": 2840,
+    "actividad_min": 38,
+    "peso_kg": null,
+    "adherencia": 71
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 341,
+  "fields": {
+    "cita": 85,
+    "fecha": "2025-11-15",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 2250,
+    "agua_ml": 2898,
+    "actividad_min": 58,
+    "peso_kg": "69.05",
+    "adherencia": 57
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 342,
+  "fields": {
+    "cita": 85,
+    "fecha": "2025-11-16",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 1983,
+    "agua_ml": 2929,
+    "actividad_min": 1,
+    "peso_kg": "68.91",
+    "adherencia": null
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 343,
+  "fields": {
+    "cita": 85,
+    "fecha": "2025-11-17",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2470,
+    "agua_ml": null,
+    "actividad_min": 50,
+    "peso_kg": "69.20",
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 344,
+  "fields": {
+    "cita": 85,
+    "fecha": "2025-11-18",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 1586,
+    "agua_ml": null,
+    "actividad_min": 26,
+    "peso_kg": "68.84",
+    "adherencia": 46
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 345,
+  "fields": {
+    "cita": 85,
+    "fecha": "2025-11-19",
+    "cumplio": false,
+    "observaciones": "Se omitió actividad física",
+    "calorias": 1726,
+    "agua_ml": 2780,
+    "actividad_min": 48,
+    "peso_kg": null,
+    "adherencia": 43
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 346,
+  "fields": {
+    "cita": 85,
+    "fecha": "2025-11-20",
+    "cumplio": true,
+    "observaciones": "Buen apego al plan",
+    "calorias": 2492,
+    "agua_ml": 2970,
+    "actividad_min": 53,
+    "peso_kg": null,
+    "adherencia": 68
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 347,
+  "fields": {
+    "cita": 85,
+    "fecha": "2025-11-21",
+    "cumplio": false,
+    "observaciones": "Hambre nocturna",
+    "calorias": 2237,
+    "agua_ml": 3101,
+    "actividad_min": null,
+    "peso_kg": "69.17",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 348,
+  "fields": {
+    "cita": 85,
+    "fecha": "2025-11-22",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1552,
+    "agua_ml": 3281,
+    "actividad_min": null,
+    "peso_kg": null,
+    "adherencia": 63
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 349,
+  "fields": {
+    "cita": 86,
+    "fecha": "2025-11-30",
+    "cumplio": true,
+    "observaciones": "Sin hambre nocturna",
+    "calorias": 1769,
+    "agua_ml": 3303,
+    "actividad_min": 50,
+    "peso_kg": null,
+    "adherencia": 80
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 350,
+  "fields": {
+    "cita": 86,
+    "fecha": "2025-12-01",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2187,
+    "agua_ml": 2749,
+    "actividad_min": 47,
+    "peso_kg": "59.45",
+    "adherencia": 66
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 351,
+  "fields": {
+    "cita": 86,
+    "fecha": "2025-12-02",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1536,
+    "agua_ml": 2898,
+    "actividad_min": 21,
+    "peso_kg": "59.67",
+    "adherencia": 61
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 352,
+  "fields": {
+    "cita": 86,
+    "fecha": "2025-12-03",
+    "cumplio": false,
+    "observaciones": "Dificultad para cumplir colación",
+    "calorias": 2013,
+    "agua_ml": 2820,
+    "actividad_min": 25,
+    "peso_kg": "59.59",
+    "adherencia": 43
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 353,
+  "fields": {
+    "cita": 86,
+    "fecha": "2025-12-04",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 1843,
+    "agua_ml": 2879,
+    "actividad_min": 57,
+    "peso_kg": "59.46",
+    "adherencia": 90
+  }
+},
+{
+  "model": "registros.registrodiario",
+  "pk": 354,
+  "fields": {
+    "cita": 86,
+    "fecha": "2025-12-05",
+    "cumplio": true,
+    "observaciones": "Energía estable durante el día",
+    "calorias": 2195,
+    "agua_ml": 3035,
+    "actividad_min": 32,
+    "peso_kg": "59.19",
+    "adherencia": 94
+  }
+}
+]
