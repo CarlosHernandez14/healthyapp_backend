@@ -23,3 +23,25 @@ class RegistroDiario(models.Model):
 
     def __str__(self):
         return f"{self.cita} - {self.fecha}"
+
+class PlanAlimenticio(models.Model):
+    cita = models.ForeignKey(Cita, on_delete=models.CASCADE, related_name='planes')
+    # Campos generales
+    titulo = models.CharField(max_length=150, blank=True)
+    descripcion = models.TextField(blank=True, null=True)
+    # Campos específicos de nutrición
+    carbohidratos_g = models.PositiveIntegerField(null=True, blank=True)
+    proteinas_g = models.PositiveIntegerField(null=True, blank=True)
+    verduras_porciones = models.PositiveSmallIntegerField(null=True, blank=True)
+    frutas_porciones = models.PositiveSmallIntegerField(null=True, blank=True)
+    grasas_g = models.PositiveIntegerField(null=True, blank=True)
+    recomendaciones = models.TextField(blank=True, null=True)
+    # Auditoría
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        ordering = ['-created_at']
+
+    def __str__(self):
+        base = self.titulo if self.titulo else "Plan alimenticio"
+        return f"{base} - {self.cita}"

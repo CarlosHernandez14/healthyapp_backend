@@ -12,30 +12,39 @@ class CitaPagination(PageNumberPagination):
     max_page_size = 100
 
 class CitaViewSet(viewsets.ModelViewSet):
-    queryset = Cita.objects.all()
+    queryset = Cita.objects.select_related('paciente').all()
     serializer_class = CitaSerializer
     pagination_class = CitaPagination
     permission_classes = [IsAuthenticated]
 
-    # Filtros por paciente, estado y rango de fechas (YYYY-MM-DD)
+    # Filtros por paciente, tipo, estado y rango de fechas (YYYY-MM-DD)
+    # Soporta nombres de parámetros nuevos (fecha_inicio, fecha_fin) y legacy (desde, hasta).
     def get_queryset(self):
         qs = super().get_queryset()
         params = self.request.query_params
 
+        # Paciente
         paciente_id = params.get('paciente')
         if paciente_id:
             qs = qs.filter(paciente_id=paciente_id)
 
+        # Tipo de cita (valores del modelo: 'primera', 'seguimiento')
+        tipo = params.get('tipo')
+        if tipo:
+            qs = qs.filter(tipo=tipo)
+
+        # Estado de la cita
         estado = params.get('estado')
         if estado:
             qs = qs.filter(estado=estado)
 
-        desde = params.get('desde')
-        if desde:
-            qs = qs.filter(fecha__gte=desde)
+        # Rango de fechas
+        fecha_inicio = params.get('fecha_inicio') or params.get('desde')
+        if fecha_inicio:
+            qs = qs.filter(fecha__gte=fecha_inicio)
 
-        hasta = params.get('hasta')
-        if hasta:
-            qs = qs.filter(fecha__lte=hasta)
+        fecha_fin = params.get('fecha_fin') or params.get('hasta')
+        if fecha_fin:
+            qs = qs.filter(fecha__lte=fecha_fin)
 
         return qs

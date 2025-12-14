@@ -7,6 +7,8 @@ class Paciente(models.Model):
 
     edad = models.PositiveIntegerField(null=True, blank=True)
     genero = models.CharField(max_length=20, null=True, blank=True)
+    telefono = models.CharField(max_length=20, null=True, blank=True)
+    email = models.EmailField(null=True, blank=True)
     
     def __str__(self):
         return f'{self.nombre} {self.apellido}'

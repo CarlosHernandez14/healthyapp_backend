@@ -21,3 +21,11 @@ class PacienteViewSet(viewsets.ModelViewSet):
     filter_backends = [filters.SearchFilter, filters.OrderingFilter]
     search_fields = ['nombre', 'apellido']
     ordering_fields = ['id', 'nombre', 'apellido']
+
+    # Filtro adicional por género (?genero=M|F|...)
+    def get_queryset(self):
+        qs = super().get_queryset()
+        genero = self.request.query_params.get('genero')
+        if genero:
+            qs = qs.filter(genero=genero)
+        return qs

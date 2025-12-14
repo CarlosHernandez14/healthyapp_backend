@@ -8,6 +8,8 @@ class CitaSerializer(serializers.ModelSerializer):
     paciente_nombre = serializers.CharField(source='paciente.nombre', read_only=True)
     paciente_apellido = serializers.CharField(source='paciente.apellido', read_only=True)
     plan_resumen = serializers.SerializerMethodField(read_only=True)
+    # Alias "notas" para mapear al campo recomendaciones (lectura/escritura)
+    notas = serializers.CharField(source='recomendaciones', required=False, allow_null=True, allow_blank=True)
     # Alias de compatibilidad (solo escritura) para clientes antiguos (psicología)
     objetivo_terapeutico = serializers.CharField(required=False, allow_null=True, allow_blank=True, write_only=True)
     enfoque_terapeutico = serializers.CharField(required=False, allow_null=True, allow_blank=True, write_only=True)
@@ -33,7 +35,8 @@ class CitaSerializer(serializers.ModelSerializer):
         return " | ".join(partes) if partes else None
 
     def validate(self, attrs):
-        # Mapear claves antiguas a los campos nuevos nutricionales si no se enviaron explícitamente
+        # Aceptar valores legacy y aliasar campos
+        # 1) Mapear claves antiguas a los campos nuevos nutricionales si no se enviaron explícitamente
         legacy_to_new = {
             'objetivo_terapeutico': 'objetivo_nutricional',
             'enfoque_terapeutico': 'enfoque_nutricional',
@@ -43,4 +46,19 @@ class CitaSerializer(serializers.ModelSerializer):
         for legacy, new in legacy_to_new.items():
             if legacy in attrs and (new not in attrs or attrs.get(new) in (None, '')):
                 attrs[new] = attrs.get(legacy)
+
+        # 2) Normalizar el tipo para aceptar etiquetas humanas desde el frontend
+        tipo = attrs.get('tipo')
+        if isinstance(tipo, str):
+            val = tipo.strip().lower()
+            label_to_value = {
+                'primera vez': 'primera',
+                'seguimiento': 'seguimiento',
+            }
+            # también aceptar directamente 'primera'/'seguimiento'
+            if val in label_to_value:
+                attrs['tipo'] = label_to_value[val]
+            elif val in ('primera', 'seguimiento'):
+                attrs['tipo'] = val
+
         return attrs
