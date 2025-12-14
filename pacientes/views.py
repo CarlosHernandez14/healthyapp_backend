@@ -5,6 +5,8 @@ from rest_framework.pagination import PageNumberPagination
 from .models import Paciente
 from .serializers import PacienteSerializer
 from rest_framework.permissions import IsAuthenticated
+from django.db.models import Q
+from django.db.models.functions import Lower, Trim
 
 
 class PacientePagination(PageNumberPagination):
@@ -32,7 +34,18 @@ class PacienteViewSet(viewsets.ModelViewSet):
         max_edad = params.get('max_edad')
 
         if genero:
-            qs = qs.filter(genero__iexact=genero)
+            norm = (genero or '').strip().casefold()
+            male_aliases = {'m', 'masculino', 'masc', 'male', 'h', 'hombre'}
+            female_aliases = {'f', 'femenino', 'fem', 'female', 'mujer'}
+            # Normalize DB values (trim + lowercase) and then compare against canonical set
+            qs = qs.annotate(_genero_norm=Lower(Trim('genero')))
+            if norm in male_aliases:
+                qs = qs.filter(_genero_norm__in=['masculino', 'm'])
+            elif norm in female_aliases:
+                qs = qs.filter(_genero_norm__in=['femenino', 'f'])
+            else:
+                # Fallback: compare normalized value directly
+                qs = qs.filter(_genero_norm=norm)
         if min_edad:
             qs = qs.filter(edad__gte=min_edad)
         if max_edad:
